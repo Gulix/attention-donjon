@@ -1,59 +1,61 @@
 #Les Traits
 
-Le profil de chaque personnage (héros, ennemis, alliés, créatures, ...) est constitué de _Traits_ qui le définissent. Il existe 5 _Attributs_ génériques, qui correspondent aux caractéristiques innées, et un nombre variable de _Compétences_, qui représentent le savoir acquis. Chaque _Trait_ a une valeur chiffrée qui correspond à un dé (d4, d6, d8 ou d12), ou peut être nulle. La valeur d6 représente la valeur moyenne d'un humain.
+Le profil de chaque personnage (hÃ©ros, ennemis, alliÃ©s, crÃ©atures, ...) est constituÃ© de _Traits_ qui le dÃ©finissent. Il existe 5 _Attributs_ gÃ©nÃ©riques, qui correspondent aux caractÃ©ristiques innÃ©es, et un nombre variable de _CompÃ©tences_, qui reprÃ©sentent le savoir acquis. Chaque _Trait_ a une valeur chiffrÃ©e qui correspond Ã  un dÃ© (d4, d6, d8 ou d12), ou peut Ãªtre nulle. La valeur d6 reprÃ©sente la valeur moyenne d'un humain.
 
 ##Les Attributs
 
-Il existe 5 Attributs communs à l'ensemble des profils. Chaque Attribut peut se voir attribuer une valeur numérique correspondant au dé à lancer quand l'Attribut est utilisé. Un Attribut peut aussi avoir une valeur nulle (le Savoir d'un zombie, par exemple). Les Attributs sont utilisés lors de certains jets de dés (la Force pour les Dommages, le Mental pour Se Reprendre, ...), ainsi que pour calculer certaines des Valeurs Dérivées. Voici une courte description de chacun de ces Attributs.
+Il existe 5 Attributs communs Ã  l'ensemble des profils. Chaque Attribut peut se voir attribuer une valeur numÃ©rique correspondant au dÃ© Ã  lancer quand l'Attribut est utilisÃ©. Un Attribut peut aussi avoir une valeur nulle (le Savoir d'un zombie, par exemple). Les Attributs sont utilisÃ©s lors de certains jets de dÃ©s (la Force pour les Dommages, le Mental pour Se Reprendre, ...), ainsi que pour calculer certaines des Valeurs DÃ©rivÃ©es. Voici une courte description de chacun de ces Attributs.
        
-* L'**Agilité** représente l'équilibre, la rapidité et la dextérité du personnage.
-* Le **Savoir** mesure ce qu'un personnage connaît à propos de son univers et de sa culture, sa capacité à réfléchir dans le feu de l'action et son habileté mentale.
-* Le **Mental** est une valeur de sa sagesse et de sa volonté. C'est une valeur importante pour se reprendre quand les choses vont mal.
-* La **Force** concerne la puissance et la forme physique. Elle est utilisée pour déterminer les dégâts en corps-à-corps.
-* La **Vigueur** sert à déterminer l'endurance, la résistance aux poisons, aux maladies, aux toxines, ainsi que les dommages que peut endurer un héros.
+* L'**AgilitÃ©** reprÃ©sente l'Ã©quilibre, la rapiditÃ© et la dextÃ©ritÃ© du personnage.
+* Le **Savoir** mesure ce qu'un personnage connaÃ®t Ã  propos de son univers et de sa culture, sa capacitÃ© Ã  rÃ©flÃ©chir dans le feu de l'action et son habiletÃ© mentale.
+* Le **Mental** est une valeur de sa sagesse et de sa volontÃ©. C'est une valeur importante pour se reprendre quand les choses vont mal.
+* La **Force** concerne la puissance et la forme physique. Elle est utilisÃ©e pour dÃ©terminer les dÃ©gÃ¢ts en corps-Ã -corps.
+* La **Vigueur** sert Ã  dÃ©terminer l'endurance, la rÃ©sistance aux poisons, aux maladies, aux toxines, ainsi que les dommages que peut endurer un hÃ©ros.
 
-##Les Compétences
+##Les CompÃ©tences
 
-Les Compétences représentent des domaines acquis par un personnage, suite à son entraînement, son éducation ou son milieu naturel. Il peut s'agir de savoir utiliser un arc, se battre à mains nues ou avec une épée, une connaissance scientifique, des compétences professionnelles, et bien d'autres choses encore. Il n'y a pas de liste exhaustive de compétences. Certaines sont uniques à un type de créature, d'autres sont procurées par des équipements spécifiques, mais il en existe des plus répandues que d'autres.
+Les CompÃ©tences reprÃ©sentent des domaines acquis par un personnage, suite Ã  son entraÃ®nement, son Ã©ducation ou son milieu naturel. Il peut s'agir de savoir utiliser un arc, se battre Ã  mains nues ou avec une Ã©pÃ©e, une connaissance scientifique, des compÃ©tences professionnelles, et bien d'autres choses encore. Il n'y a pas de liste exhaustive de compÃ©tences. Certaines sont uniques Ã  un type de crÃ©ature, d'autres sont procurÃ©es par des Ã©quipements spÃ©cifiques, mais il en existe des plus rÃ©pandues que d'autres.
 
-* La compétence de **Mêlée** représente la capacité à utiliser une arme de corps-à-corps en Combat. Elle est nécessaire pour réaliser des attaques.
-* La compétence de **Tir** représente la capacité à utiliser une arme de tir simple (arc, arbalète, ...) pour attaquer à distance.
-* La compétence de **Lancer** représente la capacité à utiliser des armes de lancer (bombes, couteau, fronde, shurikens, ...) pour attaquer à distance
-* La compétence d'**Arcane** représente la capacité à utiliser et comprendre la magie des Arcanes
+* La compÃ©tence de **MÃªlÃ©e** reprÃ©sente la capacitÃ© Ã  utiliser une arme de corps-Ã -corps en Combat. Elle est nÃ©cessaire pour rÃ©aliser des attaques.
+* La compÃ©tence de **Tir** reprÃ©sente la capacitÃ© Ã  utiliser une arme de tir simple (arc, arbalÃ¨te, ...) pour attaquer Ã  distance.
+* La compÃ©tence de **Lancer** reprÃ©sente la capacitÃ© Ã  utiliser des armes de lancer (bombes, couteau, fronde, shurikens, ...) pour attaquer Ã  distance
+* La compÃ©tence d'**Arcane** reprÃ©sente la capacitÃ© Ã  utiliser et comprendre la magie des Arcanes
 
-##Les Valeurs dérivées
+##Les Valeurs dÃ©rivÃ©es
 
-Chaque personnage possède une série de valeurs fixes, pré-calculées selon d'autres _Traits_, appelées **Valeurs dérivées**. Ces valeurs évoluent avec les traits associés, mais pas avec les bonus associés. Ainsi, si la valeur de _Mêlée_ d'un personnage passe de d6 à d8, sa valeur de _Parade_ passera de 5 à 7. Par contre, si un sort lui accorde un bonus de +1 à sa _Mêlée_, sa valeur de _Parade_ n'évolue pas.
+Chaque personnage possÃ¨de une sÃ©rie de valeurs fixes, prÃ©-calculÃ©es selon d'autres _Traits_, appelÃ©es **Valeurs dÃ©rivÃ©es**. Ces valeurs Ã©voluent avec les traits associÃ©s, mais pas avec les bonus associÃ©s. Ainsi, si la valeur de _MÃªlÃ©e_ d'un personnage passe de d6 Ã  d8, sa valeur de _Parade_ passera de 5 Ã  7. Par contre, si un sort lui accorde un bonus de +1 Ã  sa _MÃªlÃ©e_, sa valeur de _Parade_ n'Ã©volue pas.
 
-Le **Déplacement** n'est pas vraiment une _Valeur Dérivée_, mais est une valeur fixe. Elle indique le nombre de déplacement vers une Zone qu'un personnage peut effectuer au cours d'une action de Mouvement. Généralement, cette valeur est de 1. Elle peut être plus élevée pour les figurines les plus rapides, et nulle pour les figurines statiques.
+Le **DÃ©placement** n'est pas vraiment une _Valeur DÃ©rivÃ©e_, mais est une valeur fixe. Elle indique le nombre de dÃ©placement vers une Zone qu'un personnage peut effectuer au cours d'une action de Mouvement. GÃ©nÃ©ralement, cette valeur est de 1. Elle peut Ãªtre plus Ã©levÃ©e pour les figurines les plus rapides, et nulle pour les figurines statiques.
 
-La **Parade** représente la valeur à atteindre pour toucher le personnage avec une attaque de Corps-à-corps. Elle est égale à 2 + la moitié de sa valeur de _Mêlée_ (ou à 2 si le personnage n'a pas la compétence Mêlée). Les bonus des boucliers et de certaines armes ou talents s'y ajoutent ensuite, pour former la valeur de _Parade efficace_, qui sera utilisée en combat.
+La **Parade** reprÃ©sente la valeur Ã  atteindre pour toucher le personnage avec une attaque de Corps-Ã -corps. Elle est Ã©gale Ã  2 + la moitiÃ© de sa valeur de _MÃªlÃ©e_ (ou Ã  2 si le personnage n'a pas la compÃ©tence MÃªlÃ©e). Les bonus des boucliers et de certaines armes ou talents s'y ajoutent ensuite, pour former la valeur de _Parade efficace_, qui sera utilisÃ©e en combat.
 
-Dans le cas où la compétence de _Mêlée_ dépasse la valeur de d12 (d12+1, d12+2, ...), on ajoute la moitié du modificateur, arrondi à l'inférieur :
+Dans le cas oÃ¹ la compÃ©tence de _MÃªlÃ©e_ dÃ©passe la valeur de d12 (d12+1, d12+2, ...), on ajoute la moitiÃ© du modificateur, arrondi Ã  l'infÃ©rieur :
 
-* Une valeur de _Mêlée_ de d8 donnera une _Parade_ de 2 + 8/2 = 6
-* Une valeur de _Mêlée_ de d12+1 donnera une _Parade_ de 2 + 12/2 + 1/2 = 8
-* Une valeur de _Mêlée_ de d12+2 donnera une _Parade_ de 2 + 12/2 + 2/2 = 9
+* Une valeur de _MÃªlÃ©e_ de d8 donnera une _Parade_ de 2 + 8/2 = 6
+* Une valeur de _MÃªlÃ©e_ de d12+1 donnera une _Parade_ de 2 + 12/2 + 1/2 = 8
+* Une valeur de _MÃªlÃ©e_ de d12+2 donnera une _Parade_ de 2 + 12/2 + 2/2 = 9
     
-L'**Endurance** représente la résistance aux coups portés, et la valeur à atteindre pour infliger des blessures au personnage. Elle est égale à 2 + la moitié de sa valeur de _Vigueur_. Les bonus d'armure et de certains objets ou talents s'y ajoutent ensuite, pour former la valeur d'_Endurance efficace_, qui sera utilisée en combat. 
+L'**Endurance** reprÃ©sente la rÃ©sistance aux coups portÃ©s, et la valeur Ã  atteindre pour infliger des blessures au personnage. Elle est Ã©gale Ã  2 + la moitiÃ© de sa valeur de _Vigueur_. Les bonus d'armure et de certains objets ou talents s'y ajoutent ensuite, pour former la valeur d'_Endurance efficace_, qui sera utilisÃ©e en combat. 
 
-Dans le cas où la compétence de _Vigueur_ dépasse la valeur de d12, le calcul se fait comme pour la _Parade_.
+Dans le cas oÃ¹ la compÃ©tence de _Vigueur_ dÃ©passe la valeur de d12, le calcul se fait comme pour la _Parade_.
 
-##Faire un Jet de Trait
+##Jet de Trait
 
-Quand vous souhaitez accomplir une action avec une figurine, comme attaquer, il suffit de jeter le dé correspondant au Trait associé (Attribut ou Compétence). Si, après modificateurs, le jet est supérieur ou égal à 4 (la valeur cible, ou VC, standard), l'action est un succès.
+Pour rÃ©aliser la majoritÃ© de ses actions, un personnage doit rÃ©aliser un _Jet de trait_, qu'il s'agisse d'un _Attribut_ ou d'une _CompÃ©tence_. Il pourra s'agit d'un jet de _Force_ pour soulever une grille, d'un jet de _MÃªlÃ©e_ pour attaquer un ennemi, d'un jet de _Mental_ pour se reprendre, ou de toute autre chose proposÃ©e par ses talents ou l'environnement. 
 
-Certaines actions ont une VC différente. Une attaque au corps-à-corps a pour VC la valeur de Parade de la cible, et les dommages ont pour VC la valeur d'Endurance de la cible.
+Le _Jet de trait_ s'effectue en lanÃ§ant le dÃ© du _Trait_ correspondant. Des talents ou des circonstances peuvent accorder des dÃ©s supplÃ©mentaires au jet. Dans ce cas, ces dÃ©s sont lancÃ©s en mÃªme temps, seul le meilleur rÃ©sultat Ã©tant conservÃ©. Ces dÃ©s sont tous **explosifs**, ce qui signifie que si le meilleur rÃ©sultat du dÃ© est obtenu (6 sur un d6, 8 sur un d8, ...), on relance le dÃ© et on ajoute la nouvelle valeur au rÃ©sultat. Sur cette relance et les suivantes, on peut continuer Ã  faire exploser les dÃ©s pour obtenir un rÃ©sultat trÃ¨s haut. Si plusieurs dÃ©s explosent sur un jet, il faudra tenir compte du rÃ©sultat final obtenu par chacun d'eux, pour dÃ©terminer le rÃ©sultat le plus Ã©levÃ© obtenu par un dÃ©.
 
-Un personnage non-entraîné, qui ne possède pas la compétence requise pour l'action, peut faire un jet à D4-2 (plus ou moins d'autres modificateurs). Notez que certaines compétences ne peuvent être utilisées sans entraînement.
-Jets explosifs
+Des bonus et malus peuvent Ãªtre accordÃ©s Ã  certains types de jet par de l'Ã©quipement, un sort, une condition, ... Ces bonus peuvent Ãªtre fixes (+1, -2, ...) ou variables (+d6, -d4, ...). Une fois le rÃ©sultat du jet obtenu (aprÃ¨s les Ã©ventuelles _explosions_), on ajoute le bonus / malus, en lanÃ§ant si besoin le dÃ© bonus (qui n'est pas explosif). Cela donne le rÃ©sultat final du _Jet de trait_.
 
-Les jets de Traits et de Dommages sont explosifs. Cela signifie que si vous obtenez la valeur maximale d'un dé, vous pouvez le rejeter et additionner la nouvelle valeur obtenue au résultat. Et ainsi de suite tant que vous obtenez la valeur maximale du dé.
-Tests opposés
+Par dÃ©faut, la difficultÃ© d'une action est de 4. On appelle cette valeur la **Cible**. Sauf indication contraire, la _Cible_ est 4. Certaines actions auront d'autres _Cibles_, comme les tests de MÃªlÃ©e qui sont opposÃ©s Ã  la _Parade_ de l'adversaire, les jets de Force pour les Dommages qui ont pour Cible l'Endurance, ...
 
-Parfois, il peut arriver qu'un test soit opposé à un test adverse. Par exemple, quand un sorcier jette en sort en utilisant Arcane contre un groupe d'orques qui tentent de résister avec leur Mental.
+Un personnage non-entraÃ®nÃ©, qui ne possÃ¨de pas la compÃ©tence requise pour une action, peut faire un jet Ã  D4-2 (plus ou moins les bonus et malus Ã©ventuels). Certaines compÃ©tences ne peuvent pas Ãªtre utilisÃ©es sans entraÃ®nement, ce qui est indiquÃ© dans leur descriptif. Sauf indication contraire, donc, une CompÃ©tence peut toujours Ãªtre utilisÃ©e.
 
-L'attaquant fait son jet en premier, suivi du défenseur. Le plus haut total l'emporte. En cas d'égalité, l'action de l'attaquant est un échec. Pour que son action réussisse, l'attaquant doit quand même égaler ou dépasser la VC standard (d'une valeur de 4).
-Réussites
+#Tests opposÃ©s
 
-Parfois, il est important de savoir à quel point une action est réussie. Pour chaque tranche de 4 points au-dessus de la VC (ou de la valeur obtenue par l'adversaire, dans un jet opposé), on obtient une Réussite supplémentaire. La plupart du temps, une seule réussite est demandée.
+Parfois, il peut arriver qu'un test soit opposÃ© Ã  un test adverse. Par exemple, quand un sorcier jette en sort en utilisant Arcane contre un groupe d'orques qui tentent de rÃ©sister avec leur Mental.
+
+L'attaquant fait son jet en premier, suivi du dÃ©fenseur. Le plus haut total l'emporte. En cas d'Ã©galitÃ©, l'action de l'attaquant est un Ã©chec. Pour que son action rÃ©ussisse, l'attaquant doit quand mÃªme Ã©galer ou dÃ©passer la VC standard (d'une valeur de 4).
+RÃ©ussites
+
+Parfois, il est important de savoir Ã  quel point une action est rÃ©ussie. Pour chaque tranche de 4 points au-dessus de la VC (ou de la valeur obtenue par l'adversaire, dans un jet opposÃ©), on obtient une RÃ©ussite supplÃ©mentaire. La plupart du temps, une seule rÃ©ussite est demandÃ©e.
