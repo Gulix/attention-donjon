@@ -51,11 +51,12 @@ Par défaut, la difficulté d'une action est de 4. On appelle cette valeur la **
 
 Un personnage non-entraîné, qui ne possède pas la compétence requise pour une action, peut faire un jet à D4-2 (plus ou moins les bonus et malus éventuels). Certaines compétences ne peuvent pas être utilisées sans entraînement, ce qui est indiqué dans leur descriptif. Sauf indication contraire, donc, une Compétence peut toujours être utilisée.
 
-#Tests opposés
+##Tests opposés
 
-Parfois, il peut arriver qu'un test soit opposé à un test adverse. Par exemple, quand un sorcier jette en sort en utilisant Arcane contre un groupe d'orques qui tentent de résister avec leur Mental.
+Il peut arriver qu'un test ait comme _Cible_ le résultat d'un jet de trait adverse. Par exemple, quand un sorcier jette en sort en utilisant Arcane contre un groupe d'orques, ceux-ci tentent de résister en effectuant un jet de Mental.
 
-L'attaquant fait son jet en premier, suivi du défenseur. Le plus haut total l'emporte. En cas d'égalité, l'action de l'attaquant est un échec. Pour que son action réussisse, l'attaquant doit quand même égaler ou dépasser la VC standard (d'une valeur de 4).
-Réussites
+L'attaquant fait son jet en premier, suivi du défenseur. Le plus haut total l'emporte. En cas d'égalité, l'action de l'attaquant est un échec. Pour que son action réussisse, l'attaquant doit également atteindre ou dépasser la _Cible_  par défaut (qui est d'une valeur de 4).
 
-Parfois, il est important de savoir à quel point une action est réussie. Pour chaque tranche de 4 points au-dessus de la VC (ou de la valeur obtenue par l'adversaire, dans un jet opposé), on obtient une Réussite supplémentaire. La plupart du temps, une seule réussite est demandée.
+##Réussites
+
+Selon les actions effectuées, il peut être important de savoir à quel point une action est réussie. Pour chaque tranche de 4 points au-dessus de la _Cible_, le personnage obtient une **Réussite**. Par exemple, pour une _Cible_ de 4, on obtient une **Réussite** à partir d'un résultat de 8, puis deux à 12, ... Les effets des réussites sont décrits dans les actions.
