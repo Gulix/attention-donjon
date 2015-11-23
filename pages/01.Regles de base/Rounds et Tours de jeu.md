@@ -1,23 +1,68 @@
-Un Round de jeu
+#Rounds et Tours de jeu
+
+Une partie de **Atention Donjon !** est constituée de plusieurs **Rounds** de jeu qui se succèdent. Le scénario joué peut demander à compter les rounds écoulés, mais il n'est pas nécessaire de le faire si rien n'est indiqué.
+
+Certains effets en jeu peuvent durer un certain nombre de _Rounds_. On utilise pour cela des compteurs qui seront décrémentés lors d'une phase spécifique. Un effet qui dure un _Round_ est en fait actif jusqu'à la fin du round courant.
+
+D'autres effets sont actifs jusqu'au début ou à la fin du prochain tour d'un personnage. Cela signifie que cet effet persiste jusqu'à ce que le personnage en question agisse en prenant l'initiative. Selon la description, l'effet s'estompe avant qu'il n'agisse ou juste après. Ce type d'effet s'estompe immédiatement si le personnage _perd l'initiative_. Si le personnage n'agit pas lors du Round suivant l'activation de l'effet, sans pour autant perdre l'initiative, l'effet s'estompe à la fin du Round.
+
+Voici, dans l'ordre, les différentes phases d'un _Round_ de jeu :
+
+##Préparation
+
+On recrée le **Deck d'exploration** en réintégrant les cartes piochées lors du Round précédent, et en mélangeant l'intégralité du paquet de carte. Si des capacités permettent de conserver ou de mettre de côté certaines cartes, celles-ci sont laissées de côté. 
 
 ##Initiative
 
-Chaque joueur tire sa ou ses cartes d'initiative, puis décide laquelle il conserve pour l'initiative.
-Chaque groupe de monstres se voit attribuer une carte
+Une fois le _Deck d'exploration_ constitué, chaque joueur va tirer sa carte d'initiative. Si une capacité permet de piocher plusieurs cartes, ces cartes sont piochées en même temps. Puis, pour chaque _groupe actif_ (ennemis, alliés, environnement, ...) présent en jeu, on pioche également une carte d'initiative que l'on attribue au groupe. Dans le cas où un groupe possède une capacité nécessitant la pioche de plusieurs cartes d'initiative, on pioche toutes les cartes en même temps, puis on suit les règles de la capacité pour gérer ces cartes multiples. Puis on passe au groupe suivant.
 
-=> Ordre de jeu est défini
+Une fois que les cartes d'initiative des groupes actifs ont été attribuées et révélées, les joueurs disposant de plusieurs cartes d'initiative peuvent choisir celle qu'ils utiliseront et défaussent (ou les gardent, selon leur capacité) les cartes en trop.
+
+Une fois l'initiative de chaque personnage et groupe déterminé, on vérifie si un des personnages n'a pas déclenché un _Événement inattendu_. Voir la section _Exploration_ pour plus d'informations.
+
+###Initiative multiple
+
+Plusieurs cartes possibles. Plusieurs tours joués dans un round de jeu.
+
+###Jokers
+
+Lorsqu'un joueur tire un **Joker** lors de la phase d'initiative, il peut choisir de l'utiliser de deux manières distinctes. Cette décision se fait avant que les cartes des groupes actifs soient attribuées.
+
+Le _Joker_ peut être conservé pour obtenir un _d6 supplémentaire_ sur un jet de dé. Dans ce cas, si le joueur n'a pas d'autres cartes d'initiative, il doit en tirer une nouvelle pour déterminer son _Initiative_ du Round; sinon il utilise une autre de ses cartes d'initiative. S'il tire un nouveau _Joker_, il peut décider de l'utilisation qu'il en fait. Le joueur conserve la carte Joker jusqu'à son utilisation. Après un jet de dé, mais avant sa résolution, il peut décider d'utiliser sa carte _Joker_ pour lancer un d6 supplémentaire (voir la section sur les Traits pour la différence entre dés supplémentaires et dés bonus). La carte est alors défaussée et sera réintégrée au deck d'exploration à la prochaine phase de _Préparation_.
+
+Le _Joker_ peut aussi être utilisé comme _Initiative libre_. Lors du round courant, avant qu'un autre joueur ou qu'un groupe actif prenne l'initiative, le joueur peut décider de prendre l'initiative et de réaliser son _Tour de jeu_ immédiatement. Il défausse alors sa carte _Joker_.
 
 ##Tours de jeu
 
-Par ordre d'initiative (du plus haut au plus bas)
+En suivant l'ordre décroissant des cartes (As, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2), puis l'ordre des couleurs défini par le scénario, chaque personnage et groupe actif va jouer à tour de rôle.
 
-###Si Joueur
+###Tour de jeu d'un personnage-joueur
 
-Limite son Initiative : retire une carte d'initiative, et joue à cette nouvelle initiative. Si la carte est dépassée (déjà jouée), l'initiative est perdue, ainsi que le tour de jeu.
+####Attendre
 
-Joue. Un mouvement (sacrifiable pour une action bonus), plus une Action ou un Mouvement. Actions de base : Attaquer, Utiliser un pouvoir, Ouvrir la porte
+Avant de commencer son **Tour de jeu**, le joueur peut décider d'**attendre**. C'est une manoeuvre risquée qui peut permettre de temporiser et d'agir en réaction. Le joueur tire une nouvelle carte d'initiative du _Deck d'exploration_. Si cette carte est supérieure à celle correspondant à son Initiative actuelle, il _perd l'initiative_, et ne peut rien faire du Tour. Sinon, son Tour de jeu est déplacé selon la valeur de sa nouvelle carte d'initiative. 
 
-###Si monstre
+Dans tous les cas, si la carte nouvellement tirée correspond à un _événement inattendu_, celui-ci doit être joué immédiatement.
+
+Si le joueur tire un _Joker_, il peut choisir comment il l'utilise, exactement comme lors de la phase d'Initiative.
+
+Un joueur peut attendre autant de fois qu'il le souhaite lors d'un Round de jeu.
+
+###Agir
+
+Plutôt que d'attendre, la meilleure solution est généralement d'agir. Un personnage qui décide d'agir dispose de deux **Actions** lors de son Tour de jeu. Ces actions peuvent être du type suivant : 
+
+* Action de mouvement
+* Action standard (une seule par tour)
+* Action bonus (une seule par tour)
+
+Un personnage peut donc réaliser deux _Actions de mouvement_ lors d'un tour de jeu.
+
+Les _Actions standards_ regroupent la majorité des actions du jeu : Attaquer, Lancer un sort, Ouvrir une porte, Utiliser un objet. Les _Actions bonus_ sont généralement liées à un pouvoir particulier, et représentent plus l'activation de pouvoirs passifs : Entrer en Rage, Se mettre sur la défensive.
+
+Certaines actions nécessitent plus de temps pour être effectuées. Elles peuvent être liées à une capacité spéciale ou à un élément de l'environnement. On les appelle les _Actions complexes_. Un personnage qui effectue une telle action ne peut rien faire d'autre lors de son _Tour de jeu_.
+
+###Tour de jeu d'un groupe actif
 
 Joue par groupe
 
