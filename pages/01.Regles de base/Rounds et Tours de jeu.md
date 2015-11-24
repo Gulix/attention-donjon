@@ -4,7 +4,7 @@ Une partie de **Atention Donjon !** est constituée de plusieurs **Rounds** de je
 
 Certains effets en jeu peuvent durer un certain nombre de _Rounds_. On utilise pour cela des compteurs qui seront décrémentés lors d'une phase spécifique. Un effet qui dure un _Round_ est en fait actif jusqu'à la fin du round courant.
 
-D'autres effets sont actifs jusqu'au début ou à la fin du prochain tour d'un personnage. Cela signifie que cet effet persiste jusqu'à ce que le personnage en question agisse en prenant l'initiative. Selon la description, l'effet s'estompe avant qu'il n'agisse ou juste après. Ce type d'effet s'estompe immédiatement si le personnage _perd l'initiative_. Si le personnage n'agit pas lors du Round suivant l'activation de l'effet, sans pour autant perdre l'initiative, l'effet s'estompe à la fin du Round.
+D'autres effets sont actifs jusqu'au début ou à la fin du prochain tour d'un personnage. Cela signifie que cet effet persiste jusqu'à ce que le personnage en question agisse en prenant l'initiative, que ce soit dans le même Round (initiative multiple) ou le suivant. Selon la description, l'effet s'estompe avant qu'il n'agisse ou juste après. Ce type d'effet s'estompe immédiatement si le personnage _perd l'initiative_.  Si le personnage n'agit pas lors du Round suivant l'activation de l'effet, sans pour autant perdre l'initiative, l'effet s'estompe à la fin du Round.
 
 Voici, dans l'ordre, les différentes phases d'un _Round_ de jeu :
 
@@ -48,7 +48,7 @@ Si le joueur tire un _Joker_, il peut choisir comment il l'utilise, exactement c
 
 Un joueur peut attendre autant de fois qu'il le souhaite lors d'un Round de jeu.
 
-###Agir
+####Agir
 
 Plutôt que d'attendre, la meilleure solution est généralement d'agir. Un personnage qui décide d'agir dispose de deux **Actions** lors de son Tour de jeu. Ces actions peuvent être du type suivant : 
 
@@ -64,10 +64,20 @@ Certaines actions nécessitent plus de temps pour être effectuées. Elles peuvent 
 
 ###Tour de jeu d'un groupe actif
 
-Joue par groupe
+Un _groupe actif_ est un ensemble de figurines ou d'éléments de terrain qui agissent lors d'un Round de jeu tous ensembles. Il peut s'agir d'un groupe d'orques qu'affrontent les héros, d'une jeune fille qu'ils viennent sauver d'un sacrifice, ou de statues gardiennes d'un temple caché.
 
-Selon IA. Généralement 1 action et 1 mouvement.
+Lorsque vient le _tour de jeu_ d'un groupe, le dernier joueur ayant joué son personnage prend les commandes du groupe. Certains groupes (généralement alliés) indiquent dans leur descriptif qui s'en occupent (généralement le joueur du personnage qui les dirige). Ce joueur doit suivre les directives de l'IA du groupe pour les jouer, mais aura parfois des choix à faire, ainsi que des lancers de dés.
+
+##Résolutions des effets
+
+Une fois l'ensemble des _Tours de jeu_ effectué, on passe à la phase de résolution des effets. 
+
+Certains effets génèrent des **Actions** lors de la phase de résolution. On traite chaque effet l'un après l'autre, la résolution d'un effet devant être totalement réalisée avant de passer au suivant. L'ordre de résolution est laissé à la discrétion des joueurs.
+
+Une fois les actions réalisées, tous les effets limités en Round sont décrémentés d'une valeur, et ceux qui arrivent à zéro sont défaussés. 
+
+Les effets qui s'estompent au prochain Tour de jeu d'un personnage sont conservés, sauf si le personnage en question n'a pas agi lors du Round.
 
 ## Fin du Round
 
-Reconstitution du deck d'initiative. Effets réinitialisés. Nouveau Round.
+Une fois la phase de résolution des effets terminée, le Round se termine, et on passe au Round suivant.
