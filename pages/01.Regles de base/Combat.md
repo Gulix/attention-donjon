@@ -1,8 +1,6 @@
 #Le Combat
 
-Compétences utilisées : Lancer, Mêlée, Tir
-
-Attaquer est une Action Standard.
+Pour se débarasser des ennemis qui peuplent les souterrains, le **Combat** est souvent une étape nécessaire. 
 
 ##Armes
 
