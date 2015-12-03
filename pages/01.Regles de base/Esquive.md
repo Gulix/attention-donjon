@@ -24,7 +24,7 @@ Si la Cible n'est pas atteinte, et que le personnage réussit à atteindre la ca
 
 Un personnage contrôlé par un joueur n'est jamais obligé d'utiliser sa _Réaction_ pour réaliser une attaque gratuite suite à une Esquive ratée d'un ennemi. Il peut conserver sa _Réaction_ pour un autre usage.
 
-##Compétences d'esquive
+##Talents d'esquive
 
 Esquive : sacrifie son action contre une esquive réussie. Esquive difficile devient normale
 
