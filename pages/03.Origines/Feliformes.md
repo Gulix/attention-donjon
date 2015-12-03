@@ -26,9 +26,7 @@ Le personnage est adepte des charges violentes et soudaines qui lui permettent d
 
 Si un jet de Dommages est effectué, les _Réussites_ obtenues permettent, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
 
-<TODO : règle de Repousser>
-
-Un personnage repoussé est déplacé automatiquement (et sans Esquive) dans une case adjacente, qui n'est pas adjacente à la case de son agresseur. La case doit être, si possible, libre. Si aucune case n'est libre, le joueur qui repousse peut choisir la case dans laquelle est repoussé son adversaire. Cette case ne peut en aucun cas être occupée par un élément statique et plein (statue, arbre, ...). La figurine dans la case est elle-aussi repoussée, en suivant les mêmes règles (la figurine qui arrive dans sa case est considérée comme étant celle qui la repousse).
+Les règles pour les figurines repoussées se trouvent dans la section sur le **Mouvement**.
 
 ####Odorat développé
 

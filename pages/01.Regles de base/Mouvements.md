@@ -24,3 +24,11 @@ Un personnage qui effectue un pas de placement peut librement se replacer dans n
 
 Un _Pas de placement_ peut également être utilisé pour se déplacer vers une case adjacente à celle actuellement occupée par le personnage, et qui se trouverait dans une autre zone. Cela peut permettre d'éviter une _Esquive_. Si des ennemis sont _au contact_ et dans la même zone au départ, et _au contact_ et dans la même zone à l'arrivée, l'_Esquive_ reste nécessaire.
 
+##Repousser une figurine
+
+<TODO : des schémas ?>
+
+Un personnage repoussé est déplacé automatiquement (et sans Esquive) dans une case adjacente, qui n'est pas adjacente à la case de son agresseur. La case doit être, si possible, libre. Si aucune case n'est libre, le joueur qui repousse peut choisir la case dans laquelle est repoussé son adversaire. Cette case ne peut en aucun cas être occupée par un élément statique et plein (statue, arbre, ...). La figurine dans la case est elle-aussi repoussée, en suivant les mêmes règles (la figurine qui arrive dans sa case est considérée comme étant celle qui la repousse). Cela peut entraîner une succession de déplacements.
+
+Une figurine peut être repoussée sur une case provoquant des effets (lave, précipices, piège, interrupteur, ...). On résout ces effets en commençant par la dernière figurine repoussée, et en remontant jusqu'à la première figurine repoussée. Puis l'action du tour se poursuit.
+
