@@ -4,7 +4,9 @@
 ##Caractéristiques de départ
 
 Epée + bouclier
+
 Armure moyenne
+
 Mêlée + défense
 
 ##Améliorations
@@ -19,7 +21,7 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 ####Bénédiction
 
-####Maîtrise martiale
+####Maîtrise du bouclier
 
 ####Premiers soins
 
@@ -31,9 +33,9 @@ Ces Talents sont tous accessibles par le personnage contre 3XP. Certains Talents
 
 Nécessite le Talent _Bénédiction_.
 
-####Ennemi sacré
+####Bouclier Divin
 
-Nécessite les Talents _Bénédiction_ et _Maîtrise martiale_.
+Nécessite les Talents _Bénédiction_ et _Maîtrise du Bouclier_.
 
 ####Coup de Bouclier
 
@@ -49,7 +51,7 @@ Ce Talent est accessible par le personnage contre 6XP. Certains Talents préalab
 
 ####Halo protecteur
 
-Nécessite les Talents _Ennemi Sacré_ et _Inspiration Divine_.
+Nécessite les Talents _Bouclier Divin_ et _Inspiration Divine_.
 
 ####Citadelle
 
