@@ -3,6 +3,8 @@
 
 ##Caractéristiques de départ
 
+Lorsqu'un personnage est créé avec la carrière de Croisé, il dispose de l'équipement de base.
+
 Epée + bouclier
 
 Armure moyenne
