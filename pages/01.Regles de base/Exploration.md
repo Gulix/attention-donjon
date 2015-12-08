@@ -14,21 +14,28 @@ On commence par tirer la carte du dessus du **Deck d'Exploration**. On consulte 
 
 Le joueur place donc la pièce en respectant les éventuelles consignes, puis place les portes vers les nouvelles zones. La _feuille de route_ renseigne les différentes des nouvelles pièces, ainsi que ce qui passe à la découverte de la pièce.
 
-Si rien n'est indiqué pour le contenu de la pièce, le joueur tire une nouvelle carte du _Deck d'exploration_, et se confère à la **Feuille des événements** pour découvrir ce qui se trouve dans la salle. Cela peut être une **Rencontre** avec les habitants du lieu, ou une **Péripétie** à l'aventure !
+Si rien n'est indiqué pour le contenu de la pièce, le joueur tire une nouvelle carte du _Deck d'exploration_, et se confère à la **Feuille des événements** pour découvrir ce qui se trouve dans la salle. Cela peut être une **Rencontre** avec les habitants du lieu, une **Péripétie** à l'aventure, voire les deux à la fois !
 
 ##Rencontre
 
-On tire une carte d'initiative -> si elle s'intercale dans celles du tour pas encore joué -> embuscade, peut jouer
-Placement des monstres selon leur IA (tags) : dans le dos, zone adjacente, zone éloignée, ...
+Dans "**Attention Donjon !**", une **Rencontre** n'est presque jamais amicale. Il s'agit généralement d'une rencontre avec les habitants de l'endroit exploré, les adversaires des héros, les monstres qu'il faut occire !
+
+Lorsqu'une _Rencontre_ a lieu (suite à un tirage de carte, ou parce que le lieu exploré l'a imposé), le joueur actif tire une carte du _Deck d'exploration_ pour chaque groupe de la rencontre. Cette carte représente l'initiative du groupe associé pour le round en cours. Si la valeur a déjà été dépassée, le groupe ne jouera pas pendant ce round.
+
+Le placement des figurines des groupes rencontrés se font selon leurs tags. Voir la section appropriée.
 
 ##Péripéties
 
-Selon description
+Les **Péripéties** sont des événements qui vont venir modifier l'aventure, la colorer, la compliquer ou la simplifier. Sous ce terme, on va regrouper des éléments aussi divers que l'introduction de quêtes secondaires, des rencontres non-conflictuelles, le déclenchement de pièges, la découverte de challenges à réaliser, voire des changements brusques dans l'histoire racontée. Le chapitre sur les Scénarios contient des exemples de _Péripéties_ à inclure dans les scénarios.
 
-Pièges à venir, Rencontre non-conflictuelle, Trésors avec challenge, Changements dans l'histoire, Quête secondaire
+Lorsqu'une _Péripétie_ est déclenchée, on stoppe le tour en cours, et on la résout avant de poursuivre le reste du Round.
 
-##Monstres errants et pièges
+##Evénements inattendus
 
-Chaque scénario indique certaines cartes comme étant des pièges et/ou monstres errants.
+Les **Evénements inattendus** sont généralement des événements supplémentaires du scénario, qui arriveront généralement au moment le moins opportun, pour compliquer la vie des héros. 
 
-Le joueur (monstres exclus) qui tire cette carte en initiative déclenche cette rencontre spéciale et en est la cible.
+Sur la **Feuille des événements** d'un Scénario sont indiquées les cartes qui génèrent des _Evénements inattendus_. Si un des héros choisit d'utiliser une de ces cartes pour son Initiative (qu'il ait le choix, ou pas), l'événement se déclenche. Il peut s'agir d'une _Rencontre_, ou d'une _Péripétie_, et l'événement se joue comme tel. Il est déclenché au tout début du Round (juste après que l'Initiative des joueurs ait été déterminée). 
+
+Certains événements peuvent avoir des effets pour le _Déclencheur_ de l'événement : il s'agit du personnage dont l'Initiative a déclenché l'événement. C'est souvent le cas des pièges, par exemple, qui agiront principalement sur ce personnage.
+
+Une fois l'événement joué, cochez la case de _Longévité_ liée à l'événement. Certains sont uniques (une fois par scénario), d'autres limités en nombre, et certains sont permanents (pas de longévité). Si l'événement est de nouveau tiré lors de l'Initiative, mais que toutes ses cases de _Longévité_ sont déjà cochées, il n'a pas lieu. Certains événements ont des effets différents selon le nombre de cases cochées. Cette mécanique peut par exemple s'apparenter à un compte-à-rebours, avant un événement de grande ampleur (arrivée de renforts, sacrifice de la victime, éboulement, ...).
