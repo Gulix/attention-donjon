@@ -1,7 +1,6 @@
 #Croisé
 
-
-##Caractéristiques de départ
+## Carrière de départ
 
 Lorsqu'un personnage est créé avec la carrière de Croisé, il dispose de l'équipement de base de la Carrière : une épée longue, un bouclier de bois et une armure moyenne (voir la section Equipements pour les statistiques de ces objets).
 
@@ -15,9 +14,9 @@ Au cours de ses aventures, un personnage va acquérir de l'expérience sous form
 
 Entre deux aventures, un personnage ne peut acquérir qu'un seul Talent lié à sa Carrière. Chacun de ces Talents ne peut être obtenu qu'une seule fois. Si le personnage dispose déjà d'un Talent de la liste (via son Origine, une amélioration de Quête, ...), il n'a pas à le racheter ici.
 
-###Niveau 1 
+###Niveau 1
 
-Ces Talents sont tous accessibles par le personnage contre 1XP. 
+Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 ####Bénédiction
 
