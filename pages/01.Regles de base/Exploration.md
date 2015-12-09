@@ -1,14 +1,14 @@
-#Exploration
+# Exploration
 
 L'exploration est une des composantes principales du jeu. Elle est symbolisée par le Deck d'Exploration, toujours imprévisible, mais qui peut être légèrement contrôlé par certains talents.
 
-Un jeu de 52 cartes classiques, comprenant également 2 jokers (soit un total de 54 cartes) est requis pour jouer. Il sera reconstitué à chaque round de jeu, et les cartes tirées serviront à déterminer l'initiative, à découvrir les pièces explorées, les rencontres explorées, les trésors découverts. Des points de règles utiliseront également ce deck pour déterminer certains effets. 
+Un jeu de 52 cartes classiques, comprenant également 2 jokers (soit un total de 54 cartes) est requis pour jouer. Il sera reconstitué à chaque round de jeu, et les cartes tirées serviront à déterminer l'initiative, à découvrir les pièces explorées, les rencontres explorées, les trésors découverts. Des points de règles utiliseront également ce deck pour déterminer certains effets.
 
-##Révéler le donjon
+## Révéler le donjon
 
 **Révéler le donjon** est une _Action standard_ accessible à tous les personnages joueurs. Elle permet de découvrir la suite du donjon, que ce soit en explorant un passage inconnu, en ouvrant une porte, en passant un portail, ... La majorité des salles dans lesquelles les personnages vont s'aventurer disposent de _Portes_. Il ne s'agit pas forcément de réelles portes, mais on utilisera ce terme pour désigner ces points de passage.
 
-Pour pouvoir utiliser cette Action, le personnage doit se trouver dans une case adjacente à une _Porte_, et doit être libre de ses mouvements (pas entrâvé, entoilé, attaché, paralysé, ...). La _Porte_ ne doit pas avoir été utilisée précédemment, et ce qu'il y a derrière ne doit pas avoir encore été révélé. L'action ne nécessite pas de jets de dé. 
+Pour pouvoir utiliser cette Action, le personnage doit se trouver dans une case adjacente à une _Porte_, et doit être libre de ses mouvements (pas entrâvé, entoilé, attaché, paralysé, ...). La _Porte_ ne doit pas avoir été utilisée précédemment, et ce qu'il y a derrière ne doit pas avoir encore été révélé. L'action ne nécessite pas de jets de dé.
 
 On commence par tirer la carte du dessus du **Deck d'Exploration**. On consulte la **Feuille de route** du scénario joué pour déterminer la ou les pièces à disposer derrière les portes. Il peut y avoir des choix à effectuer (emplacement d'éléments, disposition des lieux, ...). Dans ce cas, c'est le joueur actif (qui a _révélé le donjon_) qui fait ce choix. Si la pièce indiquée par la carte a déjà été révélée, il faut suivre les flèches jusqu'à trouver une pièce qui n'a pas encore été révélée (voir la section dédiée à la _Feuille de route_).
 
@@ -16,7 +16,7 @@ Le joueur place donc la pièce en respectant les éventuelles consignes, puis pl
 
 Si rien n'est indiqué pour le contenu de la pièce, le joueur tire une nouvelle carte du _Deck d'exploration_, et se confère à la **Feuille des événements** pour découvrir ce qui se trouve dans la salle. Cela peut être une **Rencontre** avec les habitants du lieu, une **Péripétie** à l'aventure, voire les deux à la fois !
 
-##Rencontre
+## Rencontre
 
 Dans "**Attention Donjon !**", une **Rencontre** n'est presque jamais amicale. Il s'agit généralement d'une rencontre avec les habitants de l'endroit exploré, les adversaires des héros, les monstres qu'il faut occire !
 
@@ -24,17 +24,17 @@ Lorsqu'une _Rencontre_ a lieu (suite à un tirage de carte, ou parce que le lieu
 
 Le placement des figurines des groupes rencontrés se font selon leurs tags. Voir la section appropriée.
 
-##Péripéties
+## Péripéties
 
 Les **Péripéties** sont des événements qui vont venir modifier l'aventure, la colorer, la compliquer ou la simplifier. Sous ce terme, on va regrouper des éléments aussi divers que l'introduction de quêtes secondaires, des rencontres non-conflictuelles, le déclenchement de pièges, la découverte de challenges à réaliser, voire des changements brusques dans l'histoire racontée. Le chapitre sur les Scénarios contient des exemples de _Péripéties_ à inclure dans les scénarios.
 
 Lorsqu'une _Péripétie_ est déclenchée, on stoppe le tour en cours, et on la résout avant de poursuivre le reste du Round.
 
-##Evénements inattendus
+## Evénements inattendus
 
-Les **Evénements inattendus** sont généralement des événements supplémentaires du scénario, qui arriveront généralement au moment le moins opportun, pour compliquer la vie des héros. 
+Les **Evénements inattendus** sont généralement des événements supplémentaires du scénario, qui arriveront généralement au moment le moins opportun, pour compliquer la vie des héros.
 
-Sur la **Feuille des événements** d'un Scénario sont indiquées les cartes qui génèrent des _Evénements inattendus_. Si un des héros choisit d'utiliser une de ces cartes pour son Initiative (qu'il ait le choix, ou pas), l'événement se déclenche. Il peut s'agir d'une _Rencontre_, ou d'une _Péripétie_, et l'événement se joue comme tel. Il est déclenché au tout début du Round (juste après que l'Initiative des joueurs ait été déterminée). 
+Sur la **Feuille des événements** d'un Scénario sont indiquées les cartes qui génèrent des _Evénements inattendus_. Si un des héros choisit d'utiliser une de ces cartes pour son Initiative (qu'il ait le choix, ou pas), l'événement se déclenche. Il peut s'agir d'une _Rencontre_, ou d'une _Péripétie_, et l'événement se joue comme tel. Il est déclenché au tout début du Round (juste après que l'Initiative des joueurs ait été déterminée).
 
 Certains événements peuvent avoir des effets pour le _Déclencheur_ de l'événement : il s'agit du personnage dont l'Initiative a déclenché l'événement. C'est souvent le cas des pièges, par exemple, qui agiront principalement sur ce personnage.
 

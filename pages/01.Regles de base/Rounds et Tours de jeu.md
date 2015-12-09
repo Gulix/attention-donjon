@@ -1,83 +1,83 @@
-#Rounds et Tours de jeu
+# Rounds et Tours de jeu
 
-Une partie de **Atention Donjon !** est constituée de plusieurs **Rounds** de jeu qui se succèdent. Le scénario joué peut demander à compter les rounds écoulés, mais il n'est pas nécessaire de le faire si rien n'est indiqué.
+Une partie de **Attention Donjon !** est constituÃ©e de plusieurs **Rounds** de jeu qui se succÃ¨dent. Le scÃ©nario jouÃ© peut demander Ã  compter les rounds Ã©coulÃ©s, mais il n'est pas nÃ©cessaire de le faire si rien n'est indiquÃ©.
 
-Certains effets en jeu peuvent durer un certain nombre de _Rounds_. On utilise pour cela des compteurs qui seront décrémentés lors d'une phase spécifique. Un effet qui dure un _Round_ est en fait actif jusqu'à la fin du round courant.
+Certains effets en jeu peuvent durer un certain nombre de _Rounds_. On utilise pour cela des compteurs qui seront dÃ©crÃ©mentÃ©s lors d'une phase spÃ©cifique. Un effet qui dure un _Round_ est en fait actif jusqu'Ã  la fin du round courant.
 
-D'autres effets sont actifs jusqu'au début ou à la fin du prochain tour d'un personnage. Cela signifie que cet effet persiste jusqu'à ce que le personnage en question agisse en prenant l'initiative, que ce soit dans le même Round (initiative multiple) ou le suivant. Selon la description, l'effet s'estompe avant qu'il n'agisse ou juste après. Ce type d'effet s'estompe immédiatement si le personnage _perd l'initiative_.  Si le personnage n'agit pas lors du Round suivant l'activation de l'effet, sans pour autant perdre l'initiative, l'effet s'estompe à la fin du Round.
+D'autres effets sont actifs jusqu'au dÃ©but ou Ã  la fin du prochain tour d'un personnage. Cela signifie que cet effet persiste jusqu'Ã  ce que le personnage en question agisse en prenant l'initiative, que ce soit dans le mÃªme Round (initiative multiple) ou le suivant. Selon la description, l'effet s'estompe avant qu'il n'agisse ou juste aprÃ¨s. Ce type d'effet s'estompe immÃ©diatement si le personnage _perd l'initiative_.  Si le personnage n'agit pas lors du Round suivant l'activation de l'effet, sans pour autant perdre l'initiative, l'effet s'estompe Ã  la fin du Round.
 
-Voici, dans l'ordre, les différentes phases d'un _Round_ de jeu :
+Voici, dans l'ordre, les diffÃ©rentes phases d'un _Round_ de jeu :
 
-##Préparation
+## PrÃ©paration
 
-On recrée le **Deck d'exploration** en réintégrant les cartes piochées lors du Round précédent, et en mélangeant l'intégralité du paquet de carte. Si des capacités permettent de conserver ou de mettre de côté certaines cartes, celles-ci sont laissées de côté. 
+On recrÃ©e le **Deck d'exploration** en rÃ©intÃ©grant les cartes piochÃ©es lors du Round prÃ©cÃ©dent, et en mÃ©langeant l'intÃ©gralitÃ© du paquet de carte. Si des capacitÃ©s permettent de conserver ou de mettre de cÃ´tÃ© certaines cartes, celles-ci sont laissÃ©es de cÃ´tÃ©.
 
-##Initiative
+## Initiative
 
-Une fois le _Deck d'exploration_ constitué, chaque joueur va tirer sa carte d'initiative. Si une capacité permet de piocher plusieurs cartes, ces cartes sont piochées en même temps. Puis, pour chaque _groupe actif_ (ennemis, alliés, environnement, ...) présent en jeu, on pioche également une carte d'initiative que l'on attribue au groupe. Dans le cas où un groupe possède une capacité nécessitant la pioche de plusieurs cartes d'initiative, on pioche toutes les cartes en même temps, puis on suit les règles de la capacité pour gérer ces cartes multiples. Puis on passe au groupe suivant.
+Une fois le _Deck d'exploration_ constituÃ©, chaque joueur va tirer sa carte d'initiative. Si une capacitÃ© permet de piocher plusieurs cartes, ces cartes sont piochÃ©es en mÃªme temps. Puis, pour chaque _groupe actif_ (ennemis, alliÃ©s, environnement, ...) prÃ©sent en jeu, on pioche Ã©galement une carte d'initiative que l'on attribue au groupe. Dans le cas oÃ¹ un groupe possÃ¨de une capacitÃ© nÃ©cessitant la pioche de plusieurs cartes d'initiative, on pioche toutes les cartes en mÃªme temps, puis on suit les rÃ¨gles de la capacitÃ© pour gÃ©rer ces cartes multiples. Puis on passe au groupe suivant.
 
-Une fois que les cartes d'initiative des groupes actifs ont été attribuées et révélées, les joueurs disposant de plusieurs cartes d'initiative peuvent choisir celle qu'ils utiliseront et défaussent (ou les gardent, selon leur capacité) les cartes en trop.
+Une fois que les cartes d'initiative des groupes actifs ont Ã©tÃ© attribuÃ©es et rÃ©vÃ©lÃ©es, les joueurs disposant de plusieurs cartes d'initiative peuvent choisir celle qu'ils utiliseront et dÃ©faussent (ou les gardent, selon leur capacitÃ©) les cartes en trop.
 
-Une fois l'initiative de chaque personnage et groupe déterminé, on vérifie si un des personnages n'a pas déclenché un _Événement inattendu_. Voir la section _Exploration_ pour plus d'informations.
+Une fois l'initiative de chaque personnage et groupe dÃ©terminÃ©, on vÃ©rifie si un des personnages n'a pas dÃ©clenchÃ© un _Ã‰vÃ©nement inattendu_. Voir la section _Exploration_ pour plus d'informations.
 
-###Initiative multiple
+### Initiative multiple
 
-Plusieurs cartes possibles. Plusieurs tours joués dans un round de jeu.
+Plusieurs cartes possibles. Plusieurs tours jouÃ©s dans un round de jeu.
 
-###Jokers
+### Jokers
 
-Lorsqu'un joueur tire un **Joker** lors de la phase d'initiative, il peut choisir de l'utiliser de deux manières distinctes. Cette décision se fait avant que les cartes des groupes actifs soient attribuées.
+Lorsqu'un joueur tire un **Joker** lors de la phase d'initiative, il peut choisir de l'utiliser de deux maniÃ¨res distinctes. Cette dÃ©cision se fait avant que les cartes des groupes actifs soient attribuÃ©es.
 
-Le _Joker_ peut être conservé pour obtenir un _d6 supplémentaire_ sur un jet de dé. Dans ce cas, si le joueur n'a pas d'autres cartes d'initiative, il doit en tirer une nouvelle pour déterminer son _Initiative_ du Round; sinon il utilise une autre de ses cartes d'initiative. S'il tire un nouveau _Joker_, il peut décider de l'utilisation qu'il en fait. Le joueur conserve la carte Joker jusqu'à son utilisation. Après un jet de dé, mais avant sa résolution, il peut décider d'utiliser sa carte _Joker_ pour lancer un d6 supplémentaire (voir la section sur les Traits pour la différence entre dés supplémentaires et dés bonus). La carte est alors défaussée et sera réintégrée au deck d'exploration à la prochaine phase de _Préparation_.
+Le _Joker_ peut Ãªtre conservÃ© pour obtenir un _d6 supplÃ©mentaire_ sur un jet de dÃ©. Dans ce cas, si le joueur n'a pas d'autres cartes d'initiative, il doit en tirer une nouvelle pour dÃ©terminer son _Initiative_ du Round; sinon il utilise une autre de ses cartes d'initiative. S'il tire un nouveau _Joker_, il peut dÃ©cider de l'utilisation qu'il en fait. Le joueur conserve la carte Joker jusqu'Ã  son utilisation. AprÃ¨s un jet de dÃ©, mais avant sa rÃ©solution, il peut dÃ©cider d'utiliser sa carte _Joker_ pour lancer un d6 supplÃ©mentaire (voir la section sur les Traits pour la diffÃ©rence entre dÃ©s supplÃ©mentaires et dÃ©s bonus). La carte est alors dÃ©faussÃ©e et sera rÃ©intÃ©grÃ©e au deck d'exploration Ã  la prochaine phase de _PrÃ©paration_.
 
-Le _Joker_ peut aussi être utilisé comme _Initiative libre_. Lors du round courant, avant qu'un autre joueur ou qu'un groupe actif prenne l'initiative, le joueur peut décider de prendre l'initiative et de réaliser son _Tour de jeu_ immédiatement. Il défausse alors sa carte _Joker_.
+Le _Joker_ peut aussi Ãªtre utilisÃ© comme _Initiative libre_. Lors du round courant, avant qu'un autre joueur ou qu'un groupe actif prenne l'initiative, le joueur peut dÃ©cider de prendre l'initiative et de rÃ©aliser son _Tour de jeu_ immÃ©diatement. Il dÃ©fausse alors sa carte _Joker_.
 
-##Tours de jeu
+## Tours de jeu
 
-En suivant l'ordre décroissant des cartes (As, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2), puis l'ordre des couleurs défini par le scénario, chaque personnage et groupe actif va jouer à tour de rôle.
+En suivant l'ordre dÃ©croissant des cartes (As, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2), puis l'ordre des couleurs dÃ©fini par le scÃ©nario, chaque personnage et groupe actif va jouer Ã  tour de rÃ´le.
 
-###Tour de jeu d'un personnage-joueur
+### Tour de jeu d'un personnage-joueur
 
-####Attendre
+#### Attendre
 
-Avant de commencer son **Tour de jeu**, le joueur peut décider d'**attendre**. C'est une manoeuvre risquée qui peut permettre de temporiser et d'agir en réaction. Le joueur tire une nouvelle carte d'initiative du _Deck d'exploration_. Si cette carte est supérieure à celle correspondant à son Initiative actuelle, il _perd l'initiative_, et ne peut rien faire du Tour. Sinon, son Tour de jeu est déplacé selon la valeur de sa nouvelle carte d'initiative. 
+Avant de commencer son **Tour de jeu**, le joueur peut dÃ©cider d'**attendre**. C'est une manoeuvre risquÃ©e qui peut permettre de temporiser et d'agir en rÃ©action. Le joueur tire une nouvelle carte d'initiative du _Deck d'exploration_. Si cette carte est supÃ©rieure Ã  celle correspondant Ã  son Initiative actuelle, il _perd l'initiative_, et ne peut rien faire du Tour. Sinon, son Tour de jeu est dÃ©placÃ© selon la valeur de sa nouvelle carte d'initiative.
 
-Dans tous les cas, si la carte nouvellement tirée correspond à un _événement inattendu_, celui-ci doit être joué immédiatement.
+Dans tous les cas, si la carte nouvellement tirÃ©e correspond Ã  un _Ã©vÃ©nement inattendu_, celui-ci doit Ãªtre jouÃ© immÃ©diatement.
 
 Si le joueur tire un _Joker_, il peut choisir comment il l'utilise, exactement comme lors de la phase d'Initiative.
 
 Un joueur peut attendre autant de fois qu'il le souhaite lors d'un Round de jeu.
 
-####Agir
+#### Agir
 
-Plutôt que d'attendre, la meilleure solution est généralement d'agir. Un personnage qui décide d'agir dispose de deux **Actions** lors de son Tour de jeu. Ces actions peuvent être du type suivant : 
+PlutÃ´t que d'attendre, la meilleure solution est gÃ©nÃ©ralement d'agir. Un personnage qui dÃ©cide d'agir dispose de deux **Actions** lors de son Tour de jeu. Ces actions peuvent Ãªtre du type suivant :
 
 * Action de mouvement
 * Action standard (une seule par tour)
 * Action bonus (une seule par tour)
 
-Un personnage peut donc réaliser deux _Actions de mouvement_ lors d'un tour de jeu.
+Un personnage peut donc rÃ©aliser deux _Actions de mouvement_ lors d'un tour de jeu.
 
-Les _Actions standards_ regroupent la majorité des actions du jeu : Attaquer, Lancer un sort, Ouvrir une porte, Utiliser un objet. Les _Actions bonus_ sont généralement liées à un pouvoir particulier, et représentent plus l'activation de pouvoirs passifs : Entrer en Rage, Se mettre sur la défensive.
+Les _Actions standards_ regroupent la majoritÃ© des actions du jeu : Attaquer, Lancer un sort, Ouvrir une porte, Utiliser un objet. Les _Actions bonus_ sont gÃ©nÃ©ralement liÃ©es Ã  un pouvoir particulier, et reprÃ©sentent plus l'activation de pouvoirs passifs : Entrer en Rage, Se mettre sur la dÃ©fensive.
 
-Certaines actions nécessitent plus de temps pour être effectuées. Elles peuvent être liées à une capacité spéciale ou à un élément de l'environnement. On les appelle les _Actions complexes_. Un personnage qui effectue une telle action ne peut rien faire d'autre lors de son _Tour de jeu_.
+Certaines actions nÃ©cessitent plus de temps pour Ãªtre effectuÃ©es. Elles peuvent Ãªtre liÃ©es Ã  une capacitÃ© spÃ©ciale ou Ã  un Ã©lÃ©ment de l'environnement. On les appelle les _Actions complexes_. Un personnage qui effectue une telle action ne peut rien faire d'autre lors de son _Tour de jeu_.
 
-###Tour de jeu d'un groupe actif
+### Tour de jeu d'un groupe actif
 
-Un _groupe actif_ est un ensemble de figurines ou d'éléments de terrain qui agissent lors d'un Round de jeu tous ensembles. Il peut s'agir d'un groupe d'orques qu'affrontent les héros, d'une jeune fille qu'ils viennent sauver d'un sacrifice, ou de statues gardiennes d'un temple caché.
+Un _groupe actif_ est un ensemble de figurines ou d'Ã©lÃ©ments de terrain qui agissent lors d'un Round de jeu tous ensembles. Il peut s'agir d'un groupe d'orques qu'affrontent les hÃ©ros, d'une jeune fille qu'ils viennent sauver d'un sacrifice, ou de statues gardiennes d'un temple cachÃ©.
 
-Lorsque vient le _tour de jeu_ d'un groupe, le dernier joueur ayant joué son personnage prend les commandes du groupe. Certains groupes (généralement alliés) indiquent dans leur descriptif qui s'en occupent (généralement le joueur du personnage qui les dirige). Ce joueur doit suivre les directives de l'IA du groupe pour les jouer, mais aura parfois des choix à faire, ainsi que des lancers de dés.
+Lorsque vient le _tour de jeu_ d'un groupe, le dernier joueur ayant jouÃ© son personnage prend les commandes du groupe. Certains groupes (gÃ©nÃ©ralement alliÃ©s) indiquent dans leur descriptif qui s'en occupent (gÃ©nÃ©ralement le joueur du personnage qui les dirige). Ce joueur doit suivre les directives de l'IA du groupe pour les jouer, mais aura parfois des choix Ã  faire, ainsi que des lancers de dÃ©s.
 
-##Résolutions des effets
+## RÃ©solutions des effets
 
-Une fois l'ensemble des _Tours de jeu_ effectué, on passe à la phase de résolution des effets. 
+Une fois l'ensemble des _Tours de jeu_ effectuÃ©, on passe Ã  la phase de rÃ©solution des effets.
 
-Certains effets génèrent des **Actions** lors de la phase de résolution. On traite chaque effet l'un après l'autre, la résolution d'un effet devant être totalement réalisée avant de passer au suivant. L'ordre de résolution est laissé à la discrétion des joueurs.
+Certains effets gÃ©nÃ¨rent des **Actions** lors de la phase de rÃ©solution. On traite chaque effet l'un aprÃ¨s l'autre, la rÃ©solution d'un effet devant Ãªtre totalement rÃ©alisÃ©e avant de passer au suivant. L'ordre de rÃ©solution est laissÃ© Ã  la discrÃ©tion des joueurs.
 
-Une fois les actions réalisées, tous les effets limités en Round sont décrémentés d'une valeur, et ceux qui arrivent à zéro sont défaussés. 
+Une fois les actions rÃ©alisÃ©es, tous les effets limitÃ©s en Round sont dÃ©crÃ©mentÃ©s d'une valeur, et ceux qui arrivent Ã  zÃ©ro sont dÃ©faussÃ©s.
 
-Les effets qui s'estompent au prochain Tour de jeu d'un personnage sont conservés, sauf si le personnage en question n'a pas agi lors du Round.
+Les effets qui s'estompent au prochain Tour de jeu d'un personnage sont conservÃ©s, sauf si le personnage en question n'a pas agi lors du Round.
 
 ## Fin du Round
 
-Une fois la phase de résolution des effets terminée, le Round se termine, et on passe au Round suivant.
+Une fois la phase de rÃ©solution des effets terminÃ©e, le Round se termine, et on passe au Round suivant.

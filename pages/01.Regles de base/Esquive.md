@@ -1,4 +1,4 @@
-#Esquive
+# Esquive
 
 Lors d'un _Mouvement_, quand un personnage est entouré d'ennemis, il peut être amené à devoir faire une Esquive pour éviter d'être frappé alors qu'il se déplace.
 
@@ -12,7 +12,7 @@ Si, au départ de la figurine, des ennemis sont adjacents mais présents dans un
 
 TODO : Schéma
 
-##Jet d'esquive
+## Jet d'esquive
 
 L'_Equive_ est un jet de Trait utilisant l'Attribut _Agilité_. Le personnage qui tente son Esquive fait son jet avec une Cible de 4. Dans le cas d'une _Esquive difficile_, la Cible passe à 6. Des capacités ou de l'équipement peuvent modifier ce jet.
 
@@ -24,11 +24,10 @@ Si la Cible n'est pas atteinte, et que le personnage réussit à atteindre la ca
 
 Un personnage contrôlé par un joueur n'est jamais obligé d'utiliser sa _Réaction_ pour réaliser une attaque gratuite suite à une Esquive ratée d'un ennemi. Il peut conserver sa _Réaction_ pour un autre usage.
 
-##Talents d'esquive
+## Talents d'esquive
 
 Esquive : sacrifie son action contre une esquive réussie. Esquive difficile devient normale
 
 Maîtrise de l'esquive : Esquive normale toujours réussie. Esquive difficile devient normale et peut être ignorée en sacrifiant une Action.
 
 Insaisissable : Plus d'esquive à faire
-
