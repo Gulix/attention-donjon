@@ -6,7 +6,7 @@ Les Féliformes sont généralement de taille humaine, mais adoptent des traits 
 
 ## Caractéristiques de départ
 
-**Fort** : Un Féliforme possède la puissance musculaire de ses cousins félins, et même si certains sont frêles d'apparence, leur vivacité et leur puissance sont à redouter. A la création, un Féliforme a une valeur de d8 en Force au lieu de d6.
+**Fort** : Un Féliforme possède la puissance musculaire de ses cousins félins, et même si certains sont frêles d'apparence, leur vivacité et leur puissance sont à redouter. A la création, un Féliforme augmente son attribut de _Force_ d'un cran (d6 devient d8, d8 devient d10, ...).
 
 **Esquive** : Les Féliformes sont des êtres très souples et agiles. Ils possèdent le Talent _Esquive_ dès leur création. Un personnage avec ce talent peut sacrifier son _Action standard_ du tour pour réussir automatiquement une Esquive. Si cette Esquive est _difficile_, ce talent permet de la rendre normale (Cible à 4), toujours contre le sacrifice d'une action standard. Il est possible de sacrifier son action standard après avoir tenté son esquive (si elle échoue).
 
