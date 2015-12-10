@@ -1,88 +1,57 @@
-#Les Nains des Montages
+# Les Nains des Montages
 
-Les Nains des Montages forment un peuple lié de longue date à l'Empire. 
+Les Nains des Montages forment un peuple liÃ© de longue date Ã  l'Empire.
 
-##Caractéristiques de départ
+## CaractÃ©ristiques de dÃ©part
 
-**Endurant** : Un Nain des montagnes est endurant et dur au mal. A la création, un Nain des montages a une valeur de d8 en Vigueur au lieu de d6.
+**Endurant** : Un Nain des montagnes est endurant et dur au mal. A la crÃ©ation, un Nain des montages a une valeur de d8 en Vigueur au lieu de d6.
 
-**Tenace** : Les Nains des Montages bénéficient d'un bonus de +1 sur leurs jets pour _Se Reprendre_.
+**Tenace** : Les Nains des Montages bÃ©nÃ©ficient d'un bonus de +1 sur leurs jets pour _Se Reprendre_.
 
-##Améliorations
+## AmÃ©liorations
 
-Au cours de ses aventures, un personnage va acquérir de l'expérience sous forme de points d'expérience (XP). Il peut dépenser ces points pour progresser dans sa Carrière, ou pour acquérir les Talents suivants en développant les traits de son Origine.
+Au cours de ses aventures, un personnage va acquÃ©rir de l'expÃ©rience sous forme de points d'expÃ©rience (XP). Il peut dÃ©penser ces points pour progresser dans sa CarriÃ¨re, ou pour acquÃ©rir les Talents suivants en dÃ©veloppant les traits de son Origine.
 
-Entre deux aventures, un personnage ne peut acquérir qu'un seul Talent lié à son Origine. Chacun de ces Talents ne peut être obtenu qu'une seule fois. Si le personnage dispose déjà d'un Talent de la liste (via sa Carrière, une amélioration de Quête, ...), il n'a pas à le racheter ici.
+Entre deux aventures, un personnage ne peut acquÃ©rir qu'un seul Talent liÃ© Ã  son Origine. Chacun de ces Talents ne peut Ãªtre obtenu qu'une seule fois. Si le personnage dispose dÃ©jÃ  d'un Talent de la liste (via sa CarriÃ¨re, une amÃ©lioration de QuÃªte, ...), il n'a pas Ã  le racheter ici.
 
-###Niveau 1
+### Niveau 1
 
-Ces Talents sont tous accessibles par le personnage contre 1XP. 
+Ces Talents sont tous accessibles par le personnage contre 1XP.
 
-####Charge
+#### Charge
 
-Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du même _Tour de jeu_, le personnage réalise un déplacement autre qu'un _Pas de placement_, **puis** une attaque au corps-à-corps, il peut repousser son adversaire. Il doit pour cela réussir son jet d'attaque. Avant de faire le jet de _Dommages_, il peut décider d'uniquement repousser son adversaire, sans faire de jet de Dommages. Sinon, il peut décider de faire le jet de Dommages, et en cas de réussite, repousser son adversaire au lieu de le _Secouer_.
+Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du mÃªme _Tour de jeu_, le personnage rÃ©alise un dÃ©placement autre qu'un _Pas de placement_, **puis** une attaque au corps-Ã -corps, il peut repousser son adversaire. Il doit pour cela rÃ©ussir son jet d'attaque. Avant de faire le jet de _Dommages_, il peut dÃ©cider d'uniquement repousser son adversaire, sans faire de jet de Dommages. Sinon, il peut dÃ©cider de faire le jet de Dommages, et en cas de rÃ©ussite, repousser son adversaire au lieu de le _Secouer_.
 
-Si un jet de Dommages est effectué, les _Réussites_ obtenues permettent, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
+Si un jet de Dommages est effectuÃ©, les _RÃ©ussites_ obtenues permettent, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les rÃ¨gles de dommages habituelles.
 
-Les règles pour les figurines repoussées se trouvent dans la section sur le **Mouvement**.
+Les rÃ¨gles pour les figurines repoussÃ©es se trouvent dans la section sur le **Mouvement**.
 
-####Orientation Sous-Terraine
+#### Orientation Sous-Terraine
 
-Le personnage a passé la majeure partie de son existence sous terre, et sait parfaitement s'y orienter. 
+Le personnage a passÃ© la majeure partie de son existence sous terre, et sait parfaitement s'y orienter.
 
-Quand le personnage utilise l'action _Ouvrir la porte_, il peut tirer une carte supplémentaire dans le deck d'exploration, et choisir celle qui sera utilisée pour définir la salle derrière la porte. L'autre carte est ensuite défaussée.
+Quand le personnage utilise l'action _Ouvrir la porte_, il peut tirer une carte supplÃ©mentaire dans le deck d'exploration, et choisir celle qui sera utilisÃ©e pour dÃ©finir la salle derriÃ¨re la porte. L'autre carte est ensuite dÃ©faussÃ©e.
 
-####Résistance à la magie
+#### RÃ©sistance Ã  la magie
 
-Le personnage est résistant aux effets magiques qui lui sont adressés. Le personnage bénéficie d'un bonus de +1 quand il doit effectuer un jet opposé à un jet de trait provenant d'un effet ayant le tag _Magie_.
+Le personnage est rÃ©sistant aux effets magiques qui lui sont adressÃ©s. Le personnage bÃ©nÃ©ficie d'un bonus de +1 quand il doit effectuer un jet opposÃ© Ã  un jet de trait provenant d'un effet ayant le tag _Magie_.
 
-###Niveau 2
+### Niveau 2
 
-Ces Talents sont tous accessibles par le personnage contre 3XP. Certains Talents préalables peuvent être requis avant de les obtenir.
+Ces Talents sont tous accessibles par le personnage contre 3XP. Certains Talents prÃ©alables peuvent Ãªtre requis avant de les obtenir.
 
-####Communication avec la pierre
+#### Communication avec la pierre
 
-Nécessite le Talent _Orientation sous-terraine_.
+NÃ©cessite le Talent _Orientation sous-terraine_.
 
-####Peau de Granit
+#### Peau de Granit
 
-Nécessite le Talent _Charge_ ou _Résistance à la magie_.
+NÃ©cessite le Talent _Charge_ ou _RÃ©sistance Ã  la magie_.
 
-###Niveau 3
+### Niveau 3
 
-Ce Talent est accessible par le personnage contre 6XP. Certains Talents préalables peuvent être requis avant de l'obtenir.
+Ce Talent est accessible par le personnage contre 6XP. Certains Talents prÃ©alables peuvent Ãªtre requis avant de l'obtenir.
 
-####Héroïsme
+#### HÃ©roÃ¯sme
 
-Nécessite le Talent _Peau de Granit_ ou _Communication avec la pierre_.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Endurant
-Tenace
-
-1 - Orientation sous-terraine
-3 - Anti-magie
-2 - Charge
-4 - Battements du sol (détection des pièges)
-5 - Peau dure
-6 - Héroisme
+NÃ©cessite le Talent _Peau de Granit_ ou _Communication avec la pierre_.
