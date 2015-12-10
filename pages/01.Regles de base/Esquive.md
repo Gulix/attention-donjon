@@ -26,7 +26,9 @@ Un personnage contrôlé par un joueur n'est jamais obligé d'utiliser sa _Réac
 
 ## Talents d'esquive
 
-Esquive : sacrifie son action contre une esquive réussie. Esquive difficile devient normale
+### Esquive
+
+Un personnage avec ce talent peut sacrifier son _Action standard_ du tour pour réussir automatiquement une Esquive. Si cette Esquive est _difficile_, ce talent permet de la rendre normale (Cible à 4), toujours contre le sacrifice d'une action standard. Il est possible de sacrifier son action standard après avoir tenté son esquive (si elle échoue).
 
 Maîtrise de l'esquive : Esquive normale toujours réussie. Esquive difficile devient normale et peut être ignorée en sacrifiant une Action.
 
