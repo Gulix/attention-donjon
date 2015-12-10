@@ -27,7 +27,7 @@ Chaque personnage possède une série de valeurs fixes, pré-calculées selon d'
 
 Le **Déplacement** n'est pas vraiment une _Valeur Dérivée_, mais est une valeur fixe. Elle indique le nombre de déplacement vers une Zone qu'un personnage peut effectuer au cours d'une action de Mouvement. Généralement, cette valeur est de 1. Elle peut être plus élevée pour les figurines les plus rapides, et nulle pour les figurines statiques.
 
-La **Parade** représente la valeur à atteindre pour toucher le personnage avec une attaque de Corps-à-corps. Elle est égale à 2 + la moitié de sa valeur de _Mêlée_ (ou à 2 si le personnage n'a pas la compétence Mêlée). Les bonus des boucliers et de certaines armes ou talents s'y ajoutent ensuite, pour former la valeur de _Parade efficace_, qui sera utilisée en combat.
+La **Parade** représente la valeur à atteindre pour toucher le personnage avec une attaque de Corps-à-corps. Elle est égale à 2 + la moitié de sa valeur de _Mêlée_ (ou à 2 si le personnage n'a pas la compétence Mêlée). Les bonus des boucliers et de certaines armes ou talents s'y ajoutent ensuite, pour former la valeur de _Parade_, qui sera utilisée en combat. La _Parade instinctive_, sauf mention contraire, ne prend pas en compte ces bonus de boucliers et d'équipement.
 
 Dans le cas où la compétence de _Mêlée_ dépasse la valeur de d12 (d12+1, d12+2, ...), on ajoute la moitié du modificateur, arrondi à l'inférieur :
 
@@ -35,7 +35,7 @@ Dans le cas où la compétence de _Mêlée_ dépasse la valeur de d12 (d12+1, d1
 * Une valeur de _Mêlée_ de d12+1 donnera une _Parade_ de 2 + 12/2 + 1/2 = 8
 * Une valeur de _Mêlée_ de d12+2 donnera une _Parade_ de 2 + 12/2 + 2/2 = 9
 
-L'**Endurance** représente la résistance aux coups portés, et la valeur à atteindre pour infliger des blessures au personnage. Elle est égale à 2 + la moitié de sa valeur de _Vigueur_. Les bonus d'armure et de certains objets ou talents s'y ajoutent ensuite, pour former la valeur d'_Endurance efficace_, qui sera utilisée en combat.
+L'**Endurance** représente la résistance aux coups portés, et la valeur à atteindre pour infliger des blessures au personnage. Elle est égale à 2 + la moitié de sa valeur de _Vigueur_. Les bonus d'armure et de certains objets ou talents s'y ajoutent ensuite, pour former la valeur d'_Endurance_, qui sera utilisée en combat. L'_Endurance naturelle_, sauf mention contraire, ne prend pas en compte ces bonus d'armure et de protection.
 
 Dans le cas où la compétence de _Vigueur_ dépasse la valeur de d12, le calcul se fait comme pour la _Parade_.
 
