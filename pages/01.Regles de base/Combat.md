@@ -34,27 +34,3 @@ Le Jet de Blessures s'effectue comme un Jet de Trait, en utilisant les Dommages 
 La Cible d'un jet de Dommages est l'Endurance de la Cible.
 
 Si la Cible est atteinte ou dépassée, la victime devient **Secouée**. Si elle était déjà _Secouée_, elle devient **Blessée**. En cas de Réussite sur le jet de Dommages, la cible est directement _Blessée_ (ou Blessée deux fois si elle était déjà Secouée).
-
-## Santé et Blessures
-
-Au cours de leurs aventures, les personnages vont infliger et subir des blessures. Certains coups ne feront que les ébranler, quand d'autres risquent de les mettre à terre.
-
-Dans **Attention Donjon**, il existe trois états principaux concernant l'état de Santé d'un personnage.
-
-### Etat Indemne
-
-Cet état est l'état normal d'un personnage. Il peut agir normalement et ne subit aucun malus.
-
-### Etat Secoué
-
-Un personnage à l'état _Secoué_ subit un malus de -2 sur toutes ses Actions (et risque d'être _Blessé_ plus facilement). Il est possible de retirer l'état Secoué en réussissant l'action **Se Reprendre**.
-
-**Se Reprendre** : Action bonus. Jet de Mental contre une Cible de 4. Le malus de -2 de l'état Secoué ne s'applique pas sur ce jet. Si la Cible est atteinte, l'état Secoué est retiré. En cas de Réussite sur le jet, on ignore la dépense de l'Action Bonus et le personnage peut agir normalement.
-
-### Etat Blessé
-
-Un personnage qui devient _Blessé_ perd 1 point de Santé. En cas de multiples blessures (plusieurs attaques, jet de Dommages avec Réussite, ...), il perd autant de points de Santé que de Blessures subies.
-
- Quand un personnage arrive à 0 point de Santé, il meurt. La dépense d'un **Point de Destin** permet d'ignorer la Mort, mais cela provoque généralement une **Blessure Grave** (voir la section spécifique). La majorité des personnages non-joueurs n'ont pas de Points de Destin.
-
-L'état _Blessé_ est un état temporaire. Aussitôt les effets résolus (perte de point de Santé, mort, blessure grave, ...), le personnage retourne à l'état **Secoué** (même s'il ne l'était pas avant).
