@@ -1,0 +1,42 @@
+# Equipement des héros
+
+Dans les souterrains visités par les héros, il n'est pas bon de partir sans équipement. Mais il ne fuat pas non plus partir trop chargé, au risque de se retrouver sans force ni mobilité lorsque les ennemis déferleront. Et puis, il y a des trésors à ramasser, là-bas.
+
+Chaque héros dispose donc d'emplacements pour son équipement. Il y a l'équipement **Equipé**, l'équipement **Porté**, et l'équipement **Stocké**. L'équipement _équipé_ concerne les pièces d'équipements actives sur le personnage, comme l'arme qu'il a en main, son armure, une amulette portée. L'équipement _porté_ concerne les objets directement à portée de mains. Il peut s'agit de potions attachées à la ceinture, d'une arme de secours en bandoulière, ou d'armes de lancer à portée de main. Enfin, l'équipe _stocké_ concerne les objets qui se trouvent dans le sac ou la besace du personnage, qui ne sont pas accessibles aussi facilement.
+
+## Limite d'encombrement
+
+### Objets équipés
+
+Un personnage peut être équipé des éléments suivants :
+
+* Un objet dans chaque main (arme, bouclier ou autre) ou un objet nécessitant les deux mains (arc, hache à deux mains, ...)
+* Une armure
+* Un vêtement (cape, robe, ...)
+* Une coiffe (casque, couronne, tiare, ...)
+* Un talisman (amulette, collier, ...)
+* Deux anneaux
+* Une paire de gants
+* Une paire de bottes
+* Une ceinture
+* Un sac
+
+Chacune de ces catégories peut contenir des objets divers, mais tout objet qui peut être équipé appartient à une de ces catégories. Si ce n'est pas le cas, l'objet ne peut pas être équipé. Si le personnage vient à trouver ou obtenir un objet dont il ne peut pas s'équiper (plus de place, ou objet non équipable), il doit le ranger dans ses objets _Portés_ ou _Stockés_.
+
+### Objets portés
+
+Les objets portés sont des objets que le personnage conserve à portée de main pour un usage rapide. Pour connaître la quantité d'objets portés disponibles pour un personnage, il faut se référer aux objets équipés. Certains d'entre eux (généralement les sacs, les vêtements et les ceintures) permettent de porter un certain nombre d'objets, de certaines catégories.
+
+### Objets stockés
+
+Tout comme certains objets équipés permettent d'obtenir des espaces pour porter des objets, des objets portés ou équipés permettent également de stocker des objets. Ces objets stockés sont plus difficiles à utiliser dans le feu de l'action, mais peuvent se révéler utiles en temps voulu. Chaque objet conteneur spécifie le nombre d'objets stockés qu'il peut supporter, ainsi que leur type (pas d'armure dans une bourse, par exemple).
+
+## Changer d'équipement
+
+Une fois lancé dans une aventure, il faut s'avoir s'adapter à son environnement et à l'adversité. Un personnage peut donc changer d'équipement au cours d'une aventure. Il dispose pour cela de plusieurs actions.
+
+**S'équiper d'un objet** : Action bonus. Permet de s'équiper d'un objet _Porté_. Si un objet de même catégorie est déjà _Equipé_, les deux objets échangent leur position (si c'est possible). Dans le cas où ce n'est pas possible, soit un objet est lâché (perdu), soit l'action ne peut pas être entreprise. Certains objets portés n'ont pas besoin d'être équipés pour être utilisés. Cela est indiqué dans leur description.
+
+**Se rééquiper** : Action complexe. Permet de réorganiser tous ses objets en réaffectant les objets _Equipés_, _Portés_ et _Stockés_. Chaque ennemi dans la zone et / ou adjacent gagne une attaque gratuite contre le personnage tentant cette action.
+
+Stocker un objet que l'on vient de trouver est une action gratuite, tout comme stocker un objet porté ou équipé.
