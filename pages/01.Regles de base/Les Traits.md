@@ -43,9 +43,15 @@ Dans le cas où la compétence de _Vigueur_ dépasse la valeur de d12, le calcul
 
 Pour réaliser la majorité de ses actions, un personnage doit réaliser un _Jet de trait_, qu'il s'agisse d'un _Attribut_ ou d'une _Compétence_. Il pourra s'agit d'un jet de _Force_ pour soulever une grille, d'un jet de _Mêlée_ pour attaquer un ennemi, d'un jet de _Mental_ pour se reprendre, ou de toute autre chose proposée par ses talents ou l'environnement.
 
+### Dés supplémentaires
+
 Le _Jet de trait_ s'effectue en lançant le dé du _Trait_ correspondant. Des talents ou des circonstances peuvent accorder des dés supplémentaires au jet. Dans ce cas, ces dés sont lancés en même temps, seul le meilleur résultat étant conservé. Ces dés sont tous **explosifs**, ce qui signifie que si le meilleur résultat du dé est obtenu (6 sur un d6, 8 sur un d8, ...), on relance le dé et on ajoute la nouvelle valeur au résultat. Sur cette relance et les suivantes, on peut continuer à faire exploser les dés pour obtenir un résultat très haut. Si plusieurs dés explosent sur un jet, il faudra tenir compte du résultat final obtenu par chacun d'eux, pour déterminer le résultat le plus élevé obtenu par un dé.
 
+### Bonus et malus
+
 Des bonus et malus peuvent être accordés à certains types de jet par de l'équipement, un sort, une condition, ... Ces bonus peuvent être fixes (+1, -2, ...) ou variables (+d6, -d4, ...). Une fois le résultat du jet obtenu (après les éventuelles _explosions_), on ajoute le bonus / malus, en lançant si besoin le dé bonus (qui n'est pas explosif). Cela donne le résultat final du _Jet de trait_.
+
+### Cible
 
 Par défaut, la difficulté d'une action est de 4. On appelle cette valeur la **Cible**. Sauf indication contraire, la _Cible_ est 4. Certaines actions auront d'autres _Cibles_, comme les tests de Mêlée qui sont opposés à la _Parade_ de l'adversaire, les jets de Force pour les Dommages qui ont pour Cible l'Endurance, ...
 
