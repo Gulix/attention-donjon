@@ -30,7 +30,7 @@ Les règles pour les figurines repoussées se trouvent dans la section sur le **
 
 #### Odorat développé
 
-
+Grâce à leur odorat développé, les Féliformes sont rarement surpris, et arrivent à deviner la présence proche d'ennemis. Lorsqu'une _Rencontre_ a lieu, le joueur Féliforme choisit un des groupes actifs dévoilés, et tire deux cartes du Deck d'exploration. Il choisit celle qui sera utilisée comme Initiative par le groupe, et défausse l'autre carte. Dans le cas où le groupe peut tirer plusieurs cartes d'initiative, ce talent permet de contrôler la première de ces cartes.
 
 #### Rugissement
 
