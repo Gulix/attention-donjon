@@ -1,4 +1,8 @@
-#Croisé
+# Le Croisé
+
+Les Croisés sont des chevaliers qui ont juré de protéger le faible et l'innocent, et de partir en croisade contre le mal sous toutes ses formes. Ils existent de nombreuses factions de Croisés, chacune d'entre elles se plaçant sous la protection d'un Héros Légendaire, d'une Arcane particulière, ou d'un Ordre martial. Toujours est-il que certains de ces Croisés se retrouvent à arpenter les souterrains pour extirper le mal et y amener la lumière.
+
+Le Croisé est un personnage adepte du combat au corps-à-corps, qui n'hésitera pas à prendre les coups pour les autres, bien protégé par son armure et son bouclier. Il saura aussi conseiller ses alliés, les soigner et les bénir.
 
 ## Carrière de départ
 
@@ -8,29 +12,29 @@ De plus, le personnage augmente sa compétence de **Mêlée** d'un cran (d6 vers
 
 Ces avantages ne sont pas acquis lors d'un changement de carrière.
 
-##Améliorations
+## Améliorations
 
 Au cours de ses aventures, un personnage va acquérir de l'expérience sous forme de points d'expérience (XP). Il peut dépenser ces points pour progresser dans sa voie d'Origine, ou pour acquérir les Talents suivants en développant les traits de son Carrière.
 
 Entre deux aventures, un personnage ne peut acquérir qu'un seul Talent lié à sa Carrière. Chacun de ces Talents ne peut être obtenu qu'une seule fois. Si le personnage dispose déjà d'un Talent de la liste (via son Origine, une amélioration de Quête, ...), il n'a pas à le racheter ici.
 
-###Niveau 1
+### Niveau 1
 
 Ces Talents sont tous accessibles par le personnage contre 1XP.
 
-####Bénédiction
+#### Bénédiction
 
-Bénir quelqu'un
+Action bonus. Le personnage touche un de ses alliés, qui bénéficie d'une Bénédiction jusqu'à la fin du Round. Cette bénédiction lui permet de relancer une fois un dé, n'importe lequel. Il peut ensuite choisir quel résultat conserver, entre l'ancienne valeur et la valeur du dé relancé.
 
-####Maîtrise du bouclier
+#### Maîtrise du bouclier
 
-Amélioration du bonus de Bouclier
+Lorsque le personnage est équipé d'un bouclier, sa valeur de _Parade_ est augmentée de 1 (en plus du bonus du bouclier).
 
-####Premiers soins
+#### Premiers soins
 
-Soins des alliés et de soi-même
+Le personnage dispose d'un bonus de +1 quand il réalise l'action **Soigner**.
 
-###Niveau 2
+### Niveau 2
 
 Ces Talents sont tous accessibles par le personnage contre 3XP. Certains Talents préalables peuvent être requis avant de les obtenir.
 
