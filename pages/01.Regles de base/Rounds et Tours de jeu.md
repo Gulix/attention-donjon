@@ -55,6 +55,7 @@ Plutôt que d'attendre, la meilleure solution est généralement d'agir. Un pers
 * Action de mouvement
 * Action standard (une seule par tour)
 * Action bonus (une seule par tour)
+* Action complexe (nécessite l'usage de deux _Actions_)
 
 Un personnage peut donc réaliser deux _Actions de mouvement_ lors d'un tour de jeu.
 
