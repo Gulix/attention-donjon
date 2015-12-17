@@ -69,6 +69,10 @@ Un _groupe actif_ est un ensemble de figurines ou d'éléments de terrain qui ag
 
 Lorsque vient le _tour de jeu_ d'un groupe, le dernier joueur ayant joué son personnage prend les commandes du groupe. Certains groupes (généralement alliés) indiquent dans leur descriptif qui s'en occupent (généralement le joueur du personnage qui les dirige). Ce joueur doit suivre les directives de l'IA du groupe pour les jouer, mais aura parfois des choix à faire, ainsi que des lancers de dés.
 
+### Réactions
+
+Un personnage peut effectuer une seule **Réaction** par tour. La réaction la plus commune est l'attaque gratuite lors d'une esquive d'un ennemi. Des talents peuvent également permettre l'usage de la Réaction dans d'autres circonstances. 
+
 ## Résolutions des effets
 
 Une fois l'ensemble des _Tours de jeu_ effectué, on passe à la phase de résolution des effets.
