@@ -1,11 +1,14 @@
 # Les Sylvae
 
+Dans les premiers siècles de l'Empire, les profondes forêts étaient évitées. Les légendes parlaient de créatures étranges y vivant, enlevant femmes et enfants. Puis les légions grandirent, et des expéditions y furent menées. Les premières rencontres avec les habitants de ces forêts furent violentes, mais l'arrivée au pouvoir de l'Empereur Sylvanus Ier changea la donne. Des ambassades virent le jour, et les deux peuples purent vivre en relative harmonie.
+
+De nos jours, les Sylvae sont complètement intégrés à l'Empire. Certains vivent toujours dans les nombreuses forêts de l'Empire, mais beaucoup se sont installés dans les campagnes, où ils partagent leurs connaissances des végétaux et de leurs usages. On en trouve aussi dans les villes, comme conseillers, jardiniers ou simples dilettantes. Les Sylvaes sont d'apparence frêles, avec un regard vert qui rappelle leur forêt d'origine, mais ceux qui les ont vu en action savent que leur vivacité n'est égalée que par les Féliformes. La destruction du mal corrupteur est une tâche qui leur tient à coeur.
 
 ## Caractéristiques de départ
 
 **Grace des Sylvae** : Les Sylvae vivent au coeur des forêts les plus denses mais s'y déplacent avec grâce et facilité. Certains érudits avancent même que les Sylvae sont des plantes évoluées. Peu importe la vérité, ce qui est indéniable est l'agilité des Sylvae. A la création, un Sylvae augmente son attribut d' _Agilité_ d'un cran (d6 devient d8, d8 devient d10, ...).
 
-**Formation Eclectique** : La formation obligatoire des jeunes Impériaux, souvent loin de leurs familles, leur permet de découvrir des domaines qu'ils n'auraient sinon pas approchés. A sa création, un Impérial dispose d'un XP gratuit (qui n'est pas compté dans son total dépensé) pour acquérir un talent de niveau 1 de n'importe quelle _Carrière_ accessible à un Impérial.
+**Connaissances médicales** : Les Sylvae sont des êtres qui révèrent la vie sous toutes ses formes. Leurs connaissances en font de très bons médecins, qui n'hésitent pas à utiliser des voies alternatives. Un Sylvae a un bonus de +1 pour les jets de _Soins_.
 
 ## Améliorations
 
