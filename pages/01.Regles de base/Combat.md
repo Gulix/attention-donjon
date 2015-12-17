@@ -4,7 +4,7 @@ Pour se débarasser des ennemis qui peuplent les souterrains, le **Combat** est 
 
 ## Armes
 
-Chaque est décrite par son Allonge, son Type, ses Dommages, et éventuellement ses Règles spéciales.
+Chaque est décrite par son Allonge, son Type, ses Dommages, son éventuel facteur de Pénétration, et éventuellement ses Règles spéciales.
 
 ### Allonge
 
@@ -34,3 +34,7 @@ Le Jet de Blessures s'effectue comme un Jet de Trait, en utilisant les Dommages 
 La Cible d'un jet de Dommages est l'Endurance de la Cible.
 
 Si la Cible est atteinte ou dépassée, la victime devient **Secouée**. Si elle était déjà _Secouée_, elle devient **Blessée**. En cas de Réussite sur le jet de Dommages, la cible est directement _Blessée_ (ou Blessée deux fois si elle était déjà Secouée).
+
+### Pénétration
+
+Certaines armes sont plus efficaces que d'autres pour pénétrer les armures adverses. Ces armes possèdent un facteur de _Pénétration_. Sauf indication contraire, retranchez 1 point d'armure par point de Pénétration lorsque cette arme réalise des dommages.
