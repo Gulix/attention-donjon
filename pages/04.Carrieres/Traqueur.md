@@ -1,8 +1,8 @@
 # Le Traqueur
 
-Les Croisés sont des chevaliers qui ont juré de protéger le faible et l'innocent, et de partir en croisade contre le mal sous toutes ses formes. Ils existent de nombreuses factions de Croisés, chacune d'entre elles se plaçant sous la protection d'un Héros Légendaire, d'une Arcane particulière, ou d'un Ordre martial. Toujours est-il que certains de ces Croisés se retrouvent à arpenter les souterrains pour extirper le mal et y amener la lumière.
 
-Le Croisé est un personnage adepte du combat au corps-à-corps, qui n'hésitera pas à prendre les coups pour les autres, bien protégé par son armure et son bouclier. Il saura aussi conseiller ses alliés, les soigner et les bénir.
+
+Le Traqueur est un personnage adepte du combat à distance, et qui dévoue ses compétences à la chasse et l'extermination d'un ennemi particulier. Il en deviendra leur cauchemar.
 
 ## Carrière de départ
 
