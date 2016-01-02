@@ -30,6 +30,10 @@ Un personnage contrôlé par un joueur n'est jamais obligé d'utiliser sa _Réac
 
 Un personnage avec ce talent peut sacrifier son _Action standard_ du tour pour réussir automatiquement une Esquive. Si cette Esquive est _difficile_, ce talent permet de la rendre normale (Cible à 4), toujours contre le sacrifice d'une action standard. Il est possible de sacrifier son action standard après avoir tenté son esquive (si elle échoue).
 
-Maîtrise de l'esquive : Esquive normale toujours réussie. Esquive difficile devient normale et peut être ignorée en sacrifiant une Action.
+### Maîtrise de l'esquive
 
-Insaisissable : Plus d'esquive à faire
+Le personnage réussit toujours ses Esquives. Une Esquive difficile devient normale pour lui (Cible à 4). Un personnage avec ce talent est considéré comme ayant le talent _Esquive_. Il peut ainsi sacrifier son Action Standard pour réussir une Esquive difficle (qui est devenue une Esquive normale).
+
+### Insaisissable
+
+Le personnage réussit toujours ses Esquives, qu'elles soient normales ou difficiles. Il n'a plus de jet d'esquive à faire.
