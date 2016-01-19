@@ -23,7 +23,7 @@ Quand le personnage dépense un point d'**Héroisme**, il tire une carte du _Dec
 
 #### Débrouillard
 
-Le personnage peut lancer un d6 supplémentaire lors de ses jets de _Savoir_.
+Le personnage peut lancer un d6 _renfort_ lors de ses jets de _Savoir_.
 
 #### Touche-à-tout
 

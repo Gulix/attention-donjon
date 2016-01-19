@@ -41,11 +41,13 @@ Dans le cas où la compétence de _Vigueur_ dépasse la valeur de d12, le calcul
 
 ## Jet de Trait
 
-Pour réaliser la majorité de ses actions, un personnage doit réaliser un _Jet de trait_, qu'il s'agisse d'un _Attribut_ ou d'une _Compétence_. Il pourra s'agit d'un jet de _Force_ pour soulever une grille, d'un jet de _Mêlée_ pour attaquer un ennemi, d'un jet de _Mental_ pour se reprendre, ou de toute autre chose proposée par ses talents ou l'environnement.
+Pour réaliser la majorité de ses actions, un personnage doit réaliser un _Jet de trait_, qu'il s'agisse d'un _Attribut_ ou d'une _Compétence_. Il pourra s'agir d'un jet de _Force_ pour soulever une grille, d'un jet de _Mêlée_ pour attaquer un ennemi, d'un jet de _Mental_ pour se reprendre, ou de toute autre chose proposée par ses talents ou l'environnement.
 
-### Dés supplémentaires
+### Dés Renforts
 
-Le _Jet de trait_ s'effectue en lançant le dé du _Trait_ correspondant. Des talents ou des circonstances peuvent accorder des dés supplémentaires au jet. Dans ce cas, ces dés sont lancés en même temps, seul le meilleur résultat étant conservé. Ces dés sont tous **explosifs**, ce qui signifie que si le meilleur résultat du dé est obtenu (6 sur un d6, 8 sur un d8, ...), on relance le dé et on ajoute la nouvelle valeur au résultat. Sur cette relance et les suivantes, on peut continuer à faire exploser les dés pour obtenir un résultat très haut. Si plusieurs dés explosent sur un jet, il faudra tenir compte du résultat final obtenu par chacun d'eux, pour déterminer le résultat le plus élevé obtenu par un dé.
+Le _Jet de trait_ s'effectue en lançant le dé du _Trait_ correspondant. Des talents ou des circonstances peuvent accorder des dés **Renforts** au jet. Dans ce cas, ces dés sont lancés en même temps, seul le meilleur résultat étant conservé. Ces dés sont tous **explosifs**, ce qui signifie que si le meilleur résultat du dé est obtenu (6 sur un d6, 8 sur un d8, ...), on relance le dé et on ajoute la nouvelle valeur au résultat. Sur cette relance et les suivantes, on peut continuer à faire exploser les dés pour obtenir un résultat très haut. Si plusieurs dés explosent sur un jet, il faudra tenir compte du résultat final obtenu par chacun d'eux, pour déterminer le résultat le plus élevé obtenu par un dé.
+
+> Par exemple, un personnage doit réaliser un jet de Force (d8), mais souhaite utiliser un _Joker_ obtenu lors de l'initiative pour renforcer ses chances de succès. Il lance donc un d8 (Force) et un d6 (Joker) en renfort. Il obtient une valeur de 7 sur son d8, et une valeur de 6 sur son d6. Les dés étant explosifs, il relance son d6. Pour un résultat de 3. Sur son d8, il a donc obtenu une valeur de 7, et sur son d6 en renfort, une valeur de 9 (6+3). C'est cette seconde valeur qui va être conservée pour déterminer le résultat de l'action.
 
 ### Bonus et malus
 

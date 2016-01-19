@@ -32,7 +32,7 @@ Un personnage avec ce talent peut sacrifier son _Action standard_ du tour pour r
 
 Les Sylvae semblent posséder une intelligence commune, une sagesse qu'ils partagent entre eux pour disposer de connaissances qu'une personne seule ne pourrait amasser.
 
-Le personnage dispose d'un d6 _supplémentaire_ sur ses jets de _Savoir_.
+Le personnage dispose d'un d6 _renfort_ sur ses jets de _Savoir_.
 
 ### Niveau 2
 

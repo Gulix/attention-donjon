@@ -36,7 +36,7 @@ Quand une _Rencontre_ a lieu, après que les ennemis soient placés, et une fois
 
 #### Force Bestiale
 
-Le personnage dispose d'un d6 supplémentaire sur tous les jets de Force qu'il pourrait accomplir (le jet de Dommages n'est pas un jet de Force).
+Le personnage dispose d'un d6 _renfort_ sur tous les jets de Force qu'il pourrait accomplir (le jet de Dommages n'est pas un jet de Force).
 
 ### Niveau 2
 
