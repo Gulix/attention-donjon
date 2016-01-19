@@ -20,7 +20,7 @@ Cet état est **Soignable** (voir action _Soins_).
 
 Un personnage qui devient _Blessé_ perd 1 point de Santé. En cas de multiples blessures (plusieurs attaques, jet de Dommages avec Réussite, ...), il perd autant de points de Santé que de Blessures subies.
 
-Quand un personnage arrive à 0 point de Santé, il meurt. La dépense d'un **Point de Destin** permet d'ignorer la Mort, mais cela provoque généralement une **Blessure Grave** (voir la section spécifique). La majorité des personnages non-joueurs n'ont pas de Points de Destin.
+Quand un personnage arrive à 0 point de Santé, il meurt. La dépense d'un **Point d'Héroisme** permet d'ignorer la Mort, mais cela provoque généralement une **Blessure Grave** (voir la section spécifique). La majorité des personnages non-joueurs n'ont pas de Points de Destin.
 
 L'état _Blessé_ est un état temporaire. Aussitôt les effets résolus (perte de point de Santé, mort, blessure grave, ...), le personnage retourne à l'état **Secoué** (même s'il ne l'était pas avant).
 
