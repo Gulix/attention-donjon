@@ -20,3 +20,8 @@ Les points d'Héroisme peuvent également être dépensé pour ajouter un bonus 
 
 Si le d6 lancé grâce au point d'Héroisme obtient un 6, il explose (il s'agit d'une exception aux dés bonus qui n'explosent pas) et le point d'Héroisme n'est pas dépensé !
 
+## Récupérer de l'Héroisme
+
+En cours de partie, il n'est théoriquement pas possible de récupérer des points d'Héroisme. Des événements, des quêtes, des objets magiques peuvent permettre d'en regagner, sans toutefois qu'il soit possible d'en avoir plus que la valeur du personnage. Au début de chaque partie, l'Héroisme est récupéré dans sa totalité. 
+
+Il est également possible qu'un objet magique, par exemple, octroie un point d'Héroisme (ou plus) qui lui est lié au personnage qui le porte. Ce point n'est accessible qu'avec l'objet, et ne compte pas dans la limite du personnage.
