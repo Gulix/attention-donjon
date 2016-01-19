@@ -8,24 +8,27 @@ Chaque est décrite par son Allonge, son Type, ses Dommages, son éventuel facte
 
 ### Allonge
 
-* **Allonge 0** : Figurine adjacente
 * **Allonge 1** : Figurine adjacente ou dans la même zone
 * **Allonge 2** : Figurine dans la même zone ou dans une zone voisine
 * **Allonge 3** : Figurine présente dans une zone avec une zone d'écart
 
-Pour une arme, l'allonge est indiquée avec deux chiffres. Par exemple, Couteau 0X, ou Shurikens 12. Le premier chiffre correspond à l'allonge en portée normale. Le second chiffre correspond à la portée longue. Une attaque effectuée à portée longue ajoute +2 sur la Cible. Certaines armes n'ont pas de portée longue (un seul chiffre indiqué).
+Chaque arme possède une Allonge indiquant sa portée maximale. Il n'est pas possible, par exemple, d'attaquer une figurine située dans une autre zone, et à laquelle on n'est pas adjacent, avec une épée qui dispose d'une Allonge de 1.
 
 ### Types d'armes
 
 Le type d'arme correspond à la compétence utilisée pour effectuer l'attaque : **Mêlée**, **Tir** ou **Lancer**.
 
-Mêlée est une compétence dont la Cible est la Parade de l'adverse.
+**Mêlée** est une compétence dont la Cible est la _Parade_ de l'ennemi. Si l'ennemi n'est pas dans la même zone que l'assaillant, la Cible est augmentée de 2 points.
 
-Tir s'effectue toujours contre une Cible de 4. En cas de portée longue, la Cible est augmentée de 2 points. Si la cible d'un Tir est adjacente à l'attaquant, la Cible augmente également de 2 points.
+**Tir** s'effectue par défaut contre une Cible de 4. Si la cible d'un Tir est adjacente à l'attaquant et n'est pas sonnée, la Cible est augmentée de 2 points. Pour chaque zone traversée par un Tir, la Cible est également augmentée de 2 points. Enfin, si une figurine ennemie _qui n'est sonnée_ est en contact avec le tireur, la cible est augmentée de 2 points.
 
-Lancer s'effectue contre une Cible de 4 si la cible n'est pas adjacente, ou contre sa Parade sinon.
+> Par exemple, un Traqueur Nain isolé, dans la zone 1, tire à l'arbalète sur un mage gobelin situé dans la zone 3. Son tir part de la zone 1, puis traverse la zone 2, pour se terminer dans la zone 3. La Cible à atteindre pour réussir le Tir est de 4+2=6, la traversée de la zone 2 augmentant de 2 points la Cible. Si le Traqueur avait tiré sur l'araignée géante présente en zone 2, la Cible serait 4. Au tour suivant, l'araignée se déplace au Contact du Traqueur. Si celui-ci veut tirer sur l'araignée, la Cible sera de 8 : 4, plus 2 car sa cible est adjacente, plus 2 car un ennemi actif est adjacent.
 
-Si le jet de Trait est réussi, des Dommages sont provoqués.
+**Lancer** s'effectue contre une Cible de 4 si la cible n'est pas adjacente, ou contre sa Parade sinon. Chaque zone couverte par le lancer après la première augmente la Cible de 2 points.
+
+> Par exemple, notre Traqueur nain, confronté à l'araignée géante, abandonne son arbalète pour utiliser une hache de lancer. Tant que l'araignée est dans la zone 2, la Cible du Lancer est 6 (4 de base, plus 2 pour la zone 2 couverte par le lancer). Quand elle pénètre dans la zone 1, sa Cible passe à 4 (une seule zone n'augmente pas la Cible). Dès qu'elle devient adjacente au Traqueur (qu'elle soit en zone 1 ou en zone 2), on utilise sa Parade comme Cible.
+
+Si le jet de Trait est réussi, des **Dommages** sont provoqués.
 
 ### Dommages
 
