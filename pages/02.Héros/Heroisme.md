@@ -6,7 +6,7 @@ Chaque Héros possède, à sa création, au moins un point d'Héroisme. Plusieur
 
 ## Se sauver d'une mort certaine
 
-Lorsqu'un personnage perd son dernier point de Santé, et arrive donc à 0 en Santé, il meurt. Mais les héros ne meurent pas si facilement. Le joueur dont le personnage arrive à 0 de Santé peut choisir de dépenser un point d'Héroisme pour rester en vie, à 1 point de Santé. 
+Lorsqu'un personnage perd son dernier point de Santé, et arrive donc à 0 en Santé, il meurt. Mais les héros ne meurent pas si facilement. Le joueur dont le personnage arrive à 0 de Santé peut choisir de dépenser un point d'Héroisme pour rester en vie, à 1 point de Santé.
 
 Si, dans le même Round, le héros perd plusieurs fois son dernier point de Santé, il peut dépenser à chaque fois un point d'Héroisme pour rester en vie. Il peut également n'en dépenser qu'un seul, et subir une **Blessure Grave** pour chaque perte de point de Santé après la première.
 
@@ -16,12 +16,10 @@ Un personnage qui n'a plus de point d'Héroisme en stock peut toujours survivre 
 
 ## Réussir l'impossible
 
-Les points d'Héroisme peuvent également être dépensé pour ajouter un bonus de 1d6 à un jet de dé effectué par le personnage. Ce d6 est rajouté après le lancer de dé, le joueur peut donc l'utiliser pour réussir un jet qui a manqué de peu, pour obtenir une Réussite, ... Le point d'Héroisme est dépensé quoi qu'il en soit une fois le d6 jeté.
-
-Si le d6 lancé grâce au point d'Héroisme obtient un 6, il explose (il s'agit d'une exception aux dés bonus qui n'explosent pas) et le point d'Héroisme n'est pas dépensé !
+Les points d'Héroisme peuvent également être dépensé pour bénir un jet de dé effectué par le personnage, ou pour maudire un jet de dé qui implique directement le personnage (une attaque contre lui, un jet de dommages, ...). Le choix de dépenser ce point d'Héroisme peut être fait **après** que le jet de dé ait été fait, ce qui permet de s'assurer de le dépenser avec un effet véritable !
 
 ## Récupérer de l'Héroisme
 
-En cours de partie, il n'est théoriquement pas possible de récupérer des points d'Héroisme. Des événements, des quêtes, des objets magiques peuvent permettre d'en regagner, sans toutefois qu'il soit possible d'en avoir plus que la valeur du personnage. Au début de chaque partie, l'Héroisme est récupéré dans sa totalité. 
+En cours de partie, il n'est théoriquement pas possible de récupérer des points d'Héroisme. Des événements, des quêtes, des objets magiques peuvent permettre d'en regagner, sans toutefois qu'il soit possible d'en avoir plus que la valeur du personnage. Au début de chaque partie, l'Héroisme est récupéré dans sa totalité.
 
 Il est également possible qu'un objet magique, par exemple, octroie un point d'Héroisme (ou plus) qui lui est lié au personnage qui le porte. Ce point n'est accessible qu'avec l'objet, et ne compte pas dans la limite du personnage.

@@ -6,9 +6,9 @@ Les Féliformes sont généralement de taille humaine, mais adoptent des traits 
 
 ## Caractéristiques de départ
 
-**Fort** : Un Féliforme possède la puissance musculaire de ses cousins félins, et même si certains sont frêles d'apparence, leur vivacité et leur puissance sont à redouter. A la création, un Féliforme augmente son attribut de _Force_ d'un cran (d6 devient d8, d8 devient d10, ...).
+**Fort** : Un Féliforme possède la puissance musculaire de ses cousins félins, et même si certains sont frêles d'apparence, leur vivacité et leur puissance sont à redouter. A la création, un Féliforme augmente son attribut de _Force_ d'un point.
 
-**Esquive** : Les Féliformes sont des êtres très souples et agiles. Ils possèdent le Talent _Esquive_ dès leur création. Un personnage avec ce talent peut sacrifier son _Action standard_ du tour pour réussir automatiquement une Esquive. Si cette Esquive est _difficile_, ce talent permet de la rendre normale (Cible à 4), toujours contre le sacrifice d'une action standard. Il est possible de sacrifier son action standard après avoir tenté son esquive (si elle échoue).
+**Esquive** : Les Féliformes sont des êtres très souples et agiles. Ils possèdent le Talent _Esquive_ dès leur création. Voir la section **Esquive** pour la description de ce Talent.
 
 ## Améliorations
 
@@ -24,7 +24,7 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du même _Tour de jeu_, le personnage réalise un déplacement autre qu'un _Pas de placement_, **puis** une attaque au corps-à-corps, il peut repousser son adversaire. Il doit pour cela réussir son jet d'attaque. Avant de faire le jet de _Dommages_, il peut décider d'uniquement repousser son adversaire, sans faire de jet de Dommages. Sinon, il peut décider de faire le jet de Dommages, et en cas de réussite, repousser son adversaire au lieu de le _Secouer_.
 
-Si un jet de Dommages est effectué, les _Réussites_ obtenues permettent, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
+Si un jet de Dommages est effectué, chaque _Seuil de Réussite_ obtenu permet, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
 
 Les règles pour les figurines repoussées se trouvent dans la section sur le **Mouvement**.
 
@@ -36,7 +36,7 @@ Grâce à leur odorat développé, les Féliformes sont rarement surpris, et arr
 
 Le personnage est capable de lancer un cri terrifiant capable de déstabiliser ses ennemis. Utiliser un **Rugissement** nécessite une _Action bonus_. Le personnage cible une figurine dans sa zone ou dans une zone adjacente, sur laquelle il a une _Ligne de vue_. Le joueur réalise alors un test de _Vigueur_ opposé au _Mental_ de sa cible. Si le test est réussi, la victime devient _Secouée_.
 
-Pour chaque **Réussite** sur le jet, le personnage peut affecter une figurine adjacente à une des précédentes victimes, tant que cette nouvelle victime a un _Mental_ égal ou inférieur à la cible d'origine. Aucun jet n'est nécessaire.
+Pour chaque **Seuil de Réussite** sur le jet, le personnage peut affecter une figurine adjacente à une des précédentes victimes, tant que cette nouvelle victime a un _Mental_ égal ou inférieur à la cible d'origine. Aucun jet n'est nécessaire.
 
 Les figurines n'ayant pas de valeur de _Mental_, ou immunisée aux attaques de type _Mental_, ne peuvent pas être affectées par le **Rugissement**.
 

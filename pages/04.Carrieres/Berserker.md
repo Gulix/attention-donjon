@@ -8,7 +8,7 @@ Le Berserker est un personnage spécialiste du combat au corps-à-corps, voué p
 
 Lorsqu'un personnage est créé avec la carrière de Berserker, il dispose de l'équipement de base suivant : une arme à deux mains et une armure légère (voir la section Equipements pour les caractéristiques de ces objets).
 
-De plus, le personnage augmente sa compétence de **Mêlée** d'un cran (d6 vers d8, d8 vers d10, ...).
+De plus, le personnage augmente sa compétence de **Mêlée** d'un point.
 
 Ces avantages ne sont pas acquis lors d'un changement de carrière.
 
@@ -26,9 +26,9 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 Le personnage se laisse consumer par la rage qui l'anime pour devenir une machine à tuer, perdant au passage ses réflexes de défense. Le personnage utilise une action Bonus pour acquérir l'état **Enragé**.
 
-Quand il est sous cet état, l gagne un bonus de +2 à ses jets de _Mêlée_, mais perd au passage -2 en _Parade_.
+Quand il est sous cet état, l gagne un bonus de +2 à ses jets de _Mêlée_, mais sa valeur de _Parade_ est alors diminuée de 1.
 
-Au début d'un de ses tours, le personnage peut tenter un jet de _Mental_ contre une cible de 4 pour reprendre le contrôle et perdre l'état _Enragé_.
+Au début d'un de ses tours, le personnage peut tenter un jet de _Mental_ contre une Difficulté de 2 pour reprendre le contrôle et perdre l'état _Enragé_.
 
 #### Instinctif
 
@@ -36,7 +36,7 @@ Quand une _Rencontre_ a lieu, après que les ennemis soient placés, et une fois
 
 #### Force Bestiale
 
-Le personnage dispose d'un d6 _renfort_ sur tous les jets de Force qu'il pourrait accomplir (le jet de Dommages n'est pas un jet de Force).
+Le personnage dispose d'un bonus de +1 sur tous les jets de Force qu'il pourrait accomplir. Les jets utilisant la Force, mais n'étant pas explicitement des jets de Force (le jet de Dommages, par exemple, n'est pas un jet de Force), ne peuvent pas bénéficier de bonus.
 
 ### Niveau 2
 

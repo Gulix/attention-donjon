@@ -6,7 +6,7 @@ De nos jours, les Sylvae sont complètement intégrés à l'Empire. Certains viv
 
 ## Caractéristiques de départ
 
-**Grace des Sylvae** : Les Sylvae vivent au coeur des forêts les plus denses mais s'y déplacent avec grâce et facilité. Certains érudits avancent même que les Sylvae sont des plantes évoluées. Peu importe la vérité, ce qui est indéniable est l'agilité des Sylvae. A la création, un Sylvae augmente son attribut d' _Agilité_ d'un cran (d6 devient d8, d8 devient d10, ...).
+**Grace des Sylvae** : Les Sylvae vivent au coeur des forêts les plus denses mais s'y déplacent avec grâce et facilité. Certains érudits avancent même que les Sylvae sont des plantes évoluées. Peu importe la vérité, ce qui est indéniable est l'agilité des Sylvae. A la création, un Sylvae augmente son attribut d' _Agilité_ d'un point.
 
 **Connaissances médicales** : Les Sylvae sont des êtres qui révèrent la vie sous toutes ses formes. Leurs connaissances en font de très bons médecins, qui n'hésitent pas à utiliser des voies alternatives. Un Sylvae a un bonus de +1 pour les jets de _Soins_.
 
@@ -26,13 +26,13 @@ Le personnage est capable d'atteindre une cible à distance, même si celle-ci e
 
 #### Esquive
 
-Un personnage avec ce talent peut sacrifier son _Action standard_ du tour pour réussir automatiquement une Esquive. Si cette Esquive est _difficile_, ce talent permet de la rendre normale (Cible à 4), toujours contre le sacrifice d'une action standard. Il est possible de sacrifier son action standard après avoir tenté son esquive (si elle échoue).
+Voir la section **Esquive** pour une description du talent Esquive.
 
 #### Savoir partagé
 
 Les Sylvae semblent posséder une intelligence commune, une sagesse qu'ils partagent entre eux pour disposer de connaissances qu'une personne seule ne pourrait amasser.
 
-Le personnage dispose d'un d6 _renfort_ sur ses jets de _Savoir_.
+Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il ne peut pas utiliser de _Coups de poker_ avec les 6 qu'il obtient (que ce soit sur les dés bonus ou les dés de base du jet).
 
 ### Niveau 2
 
@@ -55,5 +55,3 @@ Ce Talent est accessible par le personnage contre 6XP. Certains Talents préalab
 #### Temps suspendu
 
 Nécessite le Talent _Sève réparatrice_ ou _Citadin_.
-
-Le personnage peut choisir une nouvelle Carrière accessible à un Impérial. Il n'acquiert pas les éléments de départ de la carrière, mais peut progresser dedans comme s'il s'agissait de sa Carrière d'origine.
