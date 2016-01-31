@@ -4,7 +4,7 @@ Les Nains des Montages forment un peuple lié de longue date à l'Empire.
 
 ## Caractéristiques de départ
 
-**Endurant** : Un Nain des montagnes est endurant et dur au mal. A la création, un Nain des montages a une valeur de d8 en Vigueur au lieu de d6.
+**Endurant** : Un Nain des montagnes est endurant et dur au mal. A la création, un Nain des montagnes augmente son attribut d'_Endurance_ d'un point.
 
 **Tenace** : Les Nains des Montages bénéficient d'un bonus de +1 sur leurs jets pour _Se Reprendre_.
 
@@ -22,7 +22,7 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du même _Tour de jeu_, le personnage réalise un déplacement autre qu'un _Pas de placement_, **puis** une attaque au corps-à-corps, il peut repousser son adversaire. Il doit pour cela réussir son jet d'attaque. Avant de faire le jet de _Dommages_, il peut décider d'uniquement repousser son adversaire, sans faire de jet de Dommages. Sinon, il peut décider de faire le jet de Dommages, et en cas de réussite, repousser son adversaire au lieu de le _Secouer_.
 
-Si un jet de Dommages est effectué, les _Réussites_ obtenues permettent, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
+Si un jet de Dommages est effectué, chaque _Seuil de Réussite_ obtenu permet, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
 
 Les règles pour les figurines repoussées se trouvent dans la section sur le **Mouvement**.
 
@@ -52,6 +52,8 @@ Nécessite le Talent _Charge_ ou _Résistance à la magie_.
 
 Ce Talent est accessible par le personnage contre 6XP. Certains Talents préalables peuvent être requis avant de l'obtenir.
 
-#### Héroïsme
+#### Héroïsme à revendre
 
 Nécessite le Talent _Peau de Granit_ ou _Communication avec la pierre_.
+
+Quand le personnage dépense un point d'**Héroisme**, il tire une carte du _Deck d'exploration_. Si l'enseigne (Coeur, Carreau, Pique, Trèfle) de la carte correspond à son Arcane Gardienne, il conserve son point d'Héroisme.

@@ -8,7 +8,7 @@ Le Croisé est un personnage adepte du combat au corps-à-corps, qui n'hésitera
 
 Lorsqu'un personnage est créé avec la carrière de Croisé, il dispose de l'équipement de base suivant : une épée longue, un bouclier de bois et une armure moyenne (voir la section Equipements pour les caractéristiques de ces objets).
 
-De plus, le personnage augmente sa compétence de **Mêlée** d'un cran (d6 vers d8, d8 vers d10, ...).
+De plus, le personnage augmente sa compétence de **Mêlée** d'un point.
 
 Ces avantages ne sont pas acquis lors d'un changement de carrière.
 

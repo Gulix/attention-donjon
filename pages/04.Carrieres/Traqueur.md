@@ -8,7 +8,7 @@ Le Traqueur est un personnage adepte du combat à distance, et qui dévoue ses c
 
 Lorsqu'un personnage est créé avec la carrière de Traqueur, il dispose de l'équipement de base suivant : une dague, un arc court et une armure légère (voir la section Equipements pour les caractéristiques de ces objets).
 
-De plus, le personnage augmente sa compétence de **Tir** d'un cran (d6 vers d8, d8 vers d10, ...).
+De plus, le personnage augmente sa compétence de **Tir** d'un point.
 
 Ces avantages ne sont pas acquis lors d'un changement de carrière.
 
@@ -26,9 +26,9 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 A l'acquisition de ce talent, le personnage choisit une Catégorie de Créature (voir le Bestiaire) comme étant sa Proie. Toutes ses attaques contre une créature de ce type se voit accorder un bonus de +1.
 
-#### Tireur émérite
+#### Tir Appliqué
 
-Le personnage a un bonus de +1 lorsqu'il utilise sa compétence _Tir_.
+Le personnage peut utiliser un bonus de +1 lors de ses jets de _Tir_. S'il utilise ce bonus, il ne peut pas utiliser de _Coups de poker_ avec les 6 qu'il obtient (que ce soit sur les dés bonus ou les dés de base du jet).
 
 #### Pas de côté
 

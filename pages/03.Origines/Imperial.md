@@ -3,7 +3,7 @@
 
 ## Caractéristiques de départ
 
-**Au service de l'Empire** : Les Impériaux, peu importe leur origine, doivent tous offrir quelques années de leur jeunesse au service de l'Empire. Selon leurs capacités, les jeunes impériaux sont envoyés soit en Scholarium pour y découvrir le savoir et les sciences impériales, soit en Militum pour y découvrir la discipline et les valeurs martiales. A la création, un Impérial augmente son attribut de _Savoir_ ou de _Mental_ d'un cran (d6 devient d8, d8 devient d10, ...).
+**Au service de l'Empire** : Les Impériaux, peu importe leur origine, doivent tous offrir quelques années de leur jeunesse au service de l'Empire. Selon leurs capacités, les jeunes impériaux sont envoyés soit en Scholarium pour y découvrir le savoir et les sciences impériales, soit en Militum pour y découvrir la discipline et les valeurs martiales. A la création, un Impérial augmente son attribut de _Savoir_ ou de _Mental_ d'un point.
 
 **Formation Eclectique** : La formation obligatoire des jeunes Impériaux, souvent loin de leurs familles, leur permet de découvrir des domaines qu'ils n'auraient sinon pas approchés. A sa création, un Impérial dispose d'un XP gratuit (qui n'est pas compté dans son total dépensé) pour acquérir un talent de niveau 1 de n'importe quelle _Carrière_ accessible à un Impérial.
 
@@ -17,13 +17,13 @@ Entre deux aventures, un personnage ne peut acquérir qu'un seul Talent lié à 
 
 Ces Talents sont tous accessibles par le personnage contre 1XP.
 
-#### Héroisme
+#### Héroisme à revendre
 
 Quand le personnage dépense un point d'**Héroisme**, il tire une carte du _Deck d'exploration_. Si l'enseigne (Coeur, Carreau, Pique, Trèfle) de la carte correspond à son Arcane Gardienne, il conserve son point d'Héroisme.
 
 #### Débrouillard
 
-Le personnage peut lancer un d6 _renfort_ lors de ses jets de _Savoir_.
+Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser des _Coups de poker_ avec les 6 qu'il obtient (que ce soit sur les dés bonus ou les dés de base du jet).
 
 #### Touche-à-tout
 
