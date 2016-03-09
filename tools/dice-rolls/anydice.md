@@ -49,3 +49,17 @@ Coup de Poker : Sur un 6, on a une réussite, et on lance un nouveau dé.
 
     output NB_DESd [explodemaudit d{0, 0, 0, 1, 1, 2}] named "avec coup de poker (Maudit)"
     output NB_DESd{0, 0, 0, 1, 1, 2} named "sans coup de poker (Maudit)"
+
+## Variante
+
+    function: calcul ATTVALUE in LANCER:s {
+
+      VALMAX: 1@LANCER
+      NBMAX: [count VALMAX in LANCER]
+      result: ATTVALUE + VALMAX + NBMAX - 1
+    }
+
+    output [calcul 1 in 1d6]  named "Attribut = 1"
+    output [calcul 2 in 2d6]  named "Attribut = 2"
+    output [calcul 3 in 3d6]  named "Attribut = 3"
+    output [calcul 4 in 4d6]  named "Attribut = 4"

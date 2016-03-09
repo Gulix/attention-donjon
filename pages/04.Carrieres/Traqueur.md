@@ -6,7 +6,7 @@ Le Traqueur est un personnage adepte du combat à distance, et qui dévoue ses c
 
 ## Carrière de départ
 
-Lorsqu'un personnage est créé avec la carrière de Traqueur, il dispose de l'équipement de base suivant : une dague, un arc court et une armure légère (voir la section Equipements pour les caractéristiques de ces objets).
+Lorsqu'un personnage est créé avec la carrière de Traqueur, il dispose de l'équipement de base suivant : une dague (arme légère), un arc court et une armure légère (voir la section Equipements pour les caractéristiques de ces objets).
 
 De plus, le personnage augmente sa compétence de **Tir** d'un point.
 

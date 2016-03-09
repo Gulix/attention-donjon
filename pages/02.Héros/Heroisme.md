@@ -10,9 +10,9 @@ Lorsqu'un personnage perd son dernier point de Santé, et arrive donc à 0 en Sa
 
 Si, dans le même Round, le héros perd plusieurs fois son dernier point de Santé, il peut dépenser à chaque fois un point d'Héroisme pour rester en vie. Il peut également n'en dépenser qu'un seul, et subir une **Blessure Grave** pour chaque perte de point de Santé après la première.
 
-Par exemple, Grungir n'a plus qu'un seul point de Santé et deux points d'Héroisme, et il se retrouve face à deux orques. Le premier le touche et le blesse. Grungir dépense un point d'Héroisme pour éviter de mourir. Le second orque le touche également, et le blesse aussi. Grungir a le choix. Il peut dépenser son dernier point d'Héroisme pour éviter de mourir. Mais comme il en a déjà dépensé un dans ce round pour éviter la mort, il peut choisir de subir une **Blessure Grave** au lieu de dépenser son dernier point d'Héroisme.
+> Par exemple, Grungir n'a plus qu'un seul point de Santé et deux points d'Héroisme, et il se retrouve face à deux orques. Le premier le touche et le blesse. Grungir dépense un point d'Héroisme pour éviter de mourir. Le second orque le touche également, et le blesse aussi. Grungir a le choix. Il peut dépenser son dernier point d'Héroisme pour éviter de mourir. Mais comme il en a déjà dépensé un dans ce round pour éviter la mort, il peut choisir de subir une **Blessure Grave** au lieu de dépenser son dernier point d'Héroisme.
 
-Un personnage qui n'a plus de point d'Héroisme en stock peut toujours survivre à une attaque mortelle. Pour cela, il doit sacrifier définitivement un point d'Héroisme. Son total maximum est baissé de 1, et le personnage subit une **Blessure Grave**. On considère qu'il a dépensé un point d'Héroisme lors du Round, dans le cas où d'autres blessures lui seraient infligées. Un personnage ne peut pas descendre son total de point d'Héroisme en-dessous de 0.
+Un personnage qui n'a plus de point d'Héroisme en stock peut toujours survivre à une attaque mortelle. Pour cela, il doit sacrifier définitivement un point d'Héroisme. Son total maximum est baissé de 1, et le personnage subit une **Blessure Grave**. On considère qu'il a dépensé un point d'Héroisme lors du Round, dans le cas où d'autres blessures lui seraient infligées. Un personnage ne peut pas descendre son total de points d'Héroisme en-dessous de 0.
 
 ## Réussir l'impossible
 
@@ -20,6 +20,6 @@ Les points d'Héroisme peuvent également être dépensé pour bénir un jet de 
 
 ## Récupérer de l'Héroisme
 
-En cours de partie, il n'est théoriquement pas possible de récupérer des points d'Héroisme. Des événements, des quêtes, des objets magiques peuvent permettre d'en regagner, sans toutefois qu'il soit possible d'en avoir plus que la valeur du personnage. Au début de chaque partie, l'Héroisme est récupéré dans sa totalité.
+En cours de partie, il n'est généralement pas possible de récupérer des points d'Héroisme. Des événements, des quêtes, des objets magiques peuvent cependant permettre d'en regagner, sans toutefois qu'il soit possible d'en avoir plus que la valeur du personnage. Au début de chaque partie, l'Héroisme est récupéré dans sa totalité.
 
 Il est également possible qu'un objet magique, par exemple, octroie un point d'Héroisme (ou plus) qui lui est lié au personnage qui le porte. Ce point n'est accessible qu'avec l'objet, et ne compte pas dans la limite du personnage.
