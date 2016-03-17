@@ -24,11 +24,9 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 #### Rage
 
-Le personnage se laisse consumer par la rage qui l'anime pour devenir une machine à tuer, perdant au passage ses réflexes de défense. Le personnage utilise une action Bonus pour acquérir l'état **Enragé**.
+Le personnage se laisse consumer par la rage qui l'anime pour devenir une machine à tuer, perdant au passage ses réflexes de défense. Le personnage utilise une action Bonus pour acquérir l'état **Enragé** (voir section **Etats**).
 
-Quand il est sous cet état, l gagne un bonus de +2 à ses jets de _Mêlée_, mais sa valeur de _Parade_ est alors diminuée de 1.
-
-Au début d'un de ses tours, le personnage peut tenter un jet de _Mental_ contre une Difficulté de 2 pour reprendre le contrôle et perdre l'état _Enragé_.
+Le personnage peut utiliser une **action bonus** pour tenter un jet de _Mental_ contre une Difficulté de 5, et reprendre le contrôle et perdre l'état _Enragé_ en cas de réussite.
 
 #### Instinctif
 
@@ -36,7 +34,7 @@ Quand une _Rencontre_ a lieu, après que les ennemis soient placés, et une fois
 
 #### Force Bestiale
 
-Le personnage dispose d'un bonus de +1 sur tous les jets de Force qu'il pourrait accomplir. Les jets utilisant la Force, mais n'étant pas explicitement des jets de Force (le jet de Dommages, par exemple, n'est pas un jet de Force), ne peuvent pas bénéficier de bonus.
+Quand le personnage tente un **Coup de Poker** sur un jet de Force, il peut relancer l'intégralité de son Coup de Poker une fois s'il le souhaite.
 
 ### Niveau 2
 

@@ -6,7 +6,7 @@ Les Nains des Montages forment un peuple lié de longue date à l'Empire.
 
 **Endurant** : Un Nain des montagnes est endurant et dur au mal. A la création, un Nain des montagnes augmente son attribut d'_Endurance_ d'un point.
 
-**Tenace** : Les Nains des Montages bénéficient d'un bonus de +1 sur leurs jets pour _Se Reprendre_.
+**Tenace** : Les Nains des Montages bénéficient d'un bonus de +1 sur leurs jets de _Mental_.
 
 ## Améliorations
 

@@ -23,11 +23,11 @@ Quand le personnage dépense un point d'**Héroisme**, il tire une carte du _Dec
 
 #### Débrouillard
 
-Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser des _Coups de poker_ avec les 6 qu'il obtient (que ce soit sur les dés bonus ou les dés de base du jet).
+Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser un _Coup de poker_ s'il obtient au moins un 6.
 
 #### Touche-à-tout
 
-Le personnage peut acquérir ce Talent pour acquérir un Talent de niveau 1 de n'importe quelle _Carrière_. Cette carrière n'a pas à être celle utilisée dans _Formation Eclectique_, mais elle doit être accessible à un personnage Impérial. Il est possible, par cette voie, d'acquérir deux talents de la même carrière simultanément.
+Le personnage peut acquérir ce Talent pour acquérir un Talent de niveau 1 de n'importe quelle _Carrière_. Cette carrière n'a pas à être celle utilisée dans _Formation Eclectique_, mais elle doit être accessible à un personnage Impérial. Il est possible, par cette voie, d'acquérir deux talents de la même carrière.
 
 ### Niveau 2
 

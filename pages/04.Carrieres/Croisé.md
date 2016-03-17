@@ -24,7 +24,7 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 #### Bénédiction
 
-Action bonus. Le personnage touche un de ses alliés, qui bénéficie d'une Bénédiction jusqu'à la fin du Round. Cette bénédiction lui permet de relancer une fois un dé, n'importe lequel. Il peut ensuite choisir quel résultat conserver, entre l'ancienne valeur et la valeur du dé relancé.
+**Action bonus** - Le personnage touche un de ses alliés, qui bénéficie d'une Bénédiction jusqu'à la fin du Round. Cette bénédiction lui permet de relancer une fois un dé, n'importe lequel. Il peut ensuite choisir quel résultat conserver, entre l'ancienne valeur et la valeur du dé relancé.
 
 #### Maîtrise du bouclier
 

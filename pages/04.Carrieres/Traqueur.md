@@ -28,9 +28,11 @@ A l'acquisition de ce talent, le personnage choisit une Catégorie de Créature 
 
 #### Tir Appliqué
 
-Le personnage peut utiliser un bonus de +1 lors de ses jets de _Tir_. S'il utilise ce bonus, il ne peut pas utiliser de _Coups de poker_ avec les 6 qu'il obtient (que ce soit sur les dés bonus ou les dés de base du jet).
+Le personnage peut utiliser un bonus de +1 lors de ses jets de _Tir_. S'il utilise ce bonus, il ne peut pas réaliser de _Coup de poker_.
 
 #### Pas de côté
+
+> TODO : à revoir
 
 Lors d'un tour où le personnage utilise sa compétence de _Tir_, il peut bénéficier gratuitement d'un mouvement en _Pas de placement_, avant ou après son attaque. Il peut toujours utiliser une autre action de déplacement lors de ce tour.
 
