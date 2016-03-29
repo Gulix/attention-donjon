@@ -20,8 +20,11 @@ Entre deux aventures, un personnage ne peut acquérir qu'un seul Talent lié à 
 
 Ces Talents sont tous accessibles par le personnage contre 1XP.
 
-#### ???
+#### Décharge Arcanique
 
+Le personnage dévie le flux des Arcanes pour délivrer une décharge sur une cible proche.
+
+Le personnage peut réaliser une Attaque en utilisant sa compétence **Arcanes**. 
 
 #### ???
 
