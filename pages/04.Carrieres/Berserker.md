@@ -1,7 +1,5 @@
 # Le Berserker
 
-
-
 Le Berserker est un personnage spécialiste du combat au corps-à-corps, voué par ses compétences à détruire ses ennemis. Il manque cependant de protection, et ne fera pas long feu s'il n'est pas soutenu par des alliés.
 
 ## Carrière de départ
@@ -44,7 +42,7 @@ Ces Talents sont tous accessibles par le personnage contre 3XP. Certains Talents
 
 Nécessite le Talent _Force Bestiale_.
 
-Ignore l'effet Secoué
+Lorsque le personnage subit une **Blessure Grave**, après avoir tiré la carte décrivant la blessure, il peut choisir de la mettre de côté. Dans ce cas, lors de la prochaine phase de **Résolution des effets**, il pourra décider de subir la blessure grave précédemment tirée, ou de tirer une nouvelle carte et de subir les effets de cette nouvelle carte. 
 
 #### Charge
 
@@ -70,7 +68,11 @@ Ces Talents sont accessibles par le personnage contre 6XP. Certains Talents pré
 
 Nécessite les Talents _Charge_ et _Insensible_.
 
-Immunisé à Secoué (état disparaît automatiquement)
+Ce talent remplace le précédent talent _Insensible_.
+
+Lorsque le personnage subit une **Blessure Grave**, après avoir tiré la carte décrivant la blessure, il peut choisir de la mettre de côté. Dans ce cas, lors de la prochaine phase de **Résolution des effets**, il pourra tirer une nouvelle carte pour déterminer sa Blessure Grave, et choisir celle dont il subit les effets.
+
+De plus, si le personnage tire une carte de la même _Enseigne_ que son **Arcane Gardienne**, il peut ignorer les effets de la Blessure Grave. Cet effet s'applique en plus du précédent (il peut donc l'appliquer sur la seconde carte tirée).
 
 #### Massacre
 
