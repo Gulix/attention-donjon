@@ -9,7 +9,27 @@ Ce chapitre couvre des péripéties qui peuvent survenir dans les souterrains. I
 
 Ces péripéties sont présentées sous la forme d'une liste. Vous pouvez jouer de manière totalement aléatoire, en tirant au hasard une péripétie dans cette liste quand vous en rencontrez une. Mais ces péripéties sont surtout des bases et des idées à utiliser dans les scénarios. Vous pouvez aussi les utiliser comme événements fixes dans une zone / une pièce.
 
-## 2 -
+## 2 - Rencontres
+
+### 2 de Coeur - Guerrier mourrant
+
+> Un guerrier mourrant est adossé à un mur. Il essaye de vous parler mais seuls des murmures s'échappent de ses lèvres.
+
+Un personnage peut réaliser une action de **Soins** sur le guerrier mourrant. En cas d'échec, le guerrier meurt. En cas de réussite, le guerrier récupère de ses forces, et décrit les prochains lieux que vont rencontrer les personnages. Tirez autant de cartes que de réussites dans le deck d'exploration, jusqu'à un maximum de 3, et dévoilez le donjon en utilisant ces cartes. Les Rencontres et les Péripéties éventuelles sont également dévoilées directement.
+
+Si le guerrier n'est pas soigné à la prochaine phase de résolution des effets, il meurt. S'il est soigné, il récupère pendant un temps puis retourne à la surface par ses propres moyens. Il ne possède plus rien d'importance sur lui.
+
+### 2 de Carreau - Fantôme
+
+> Un esprit désincarné flotte devant vous. Sans un mot, il semble vous indiquer de le suivre vers un coin de la pièce.
+
+Un personnage dans la zone peut utiliser une Action pour suivre le fantôme et découvrir ce qu'il souhaite lui montrer. Il s'agit d'une petite cache dans un mur. Le personnage est invité à y glisser la main. S'il le fait, le fantôme disparaît. Tirez une carte du deck d'exploration :
+
+* **Coeur** : Une **Potion de soins** est cachée au fond de la cavité.
+* **Carreau** : Une bourse de quelques Deniers.
+* **Pique** : Un **Rat Géant** a élu domicile dans la cavité. Il mord le personnage (touches automatiques) directement, puis est joué comme une **Rencontre** classique. Un **Trésor consommable** est obtenu suite à la Rencontre.
+* **Trèfle** : Rien ...
+* **Joker** : Le fantôme lance un rire terrifiant quand une menotte se bloque sur le poignet du personnage. Celui subit l'état **Immobilisé**, jusqu'à obtenir 10 réussites en Force (groupe) ou 6 en Agilité (seul). Immédiatement, jouez une Rencontre.
 
 ## 3 - Mousses, Moisissures et Champignons
 
@@ -104,6 +124,18 @@ Un personnage ne peut se nourrir qu'une seule fois, et à chaque fois qu'un pers
 * **Pique** : C'était un piège ! Au moment où le personnage se saisit d'un des aliments, la zone dans laquelle se trouve la table est prise dans les flammes. Chaque personnage s'y trouvant doit réussir un jet d'Agilité de Difficulté 5. En cas d'échec, elle perd 1d6 points de Santé. En cas de réussite, elle ne perd qu'un d3 points de Santé. La table disparaît au déclenchement.
 * **Trèfle** : La nourriture est empoisonnée, et le personnage perd immédiatement 1d6 points de Santé.
 * **Joker** : La table est en réalité un **Mimique**, qui attaque directement le personnage ! Une carte d'initiative lui est ensuite attribuée, et il agit normalement. Vaincre le **Mimique** permet ensuite de **Chercher un Trésor**.
+
+### 8 de Carreau - C'est quoi ce coffre ?
+
+> Un coffre isolé traîne dans un coin de la salle. C'est quoi ce coffre ?
+
+Le seul moyen de vraiment savoir ce que contient ce coffre, c'est de l'ouvrir ! Cela coûte une Action pour un personnage dans la zone. Tirer une carte pour déterminer le contenu du coffre :
+
+* **Coeur** : Un **Trésor mineur** à déterminer aléatoirement.
+* **Carreau** : Un **Trésor consommable** à déterminer aléatoirement.
+* **Pique** : C'était un piège ! Un mécanisme fait perdre un point de Santé au personnage.
+* **Trèfle** : La coffre est en réalité un **Mimique**, qui attaque directement le personnage ! Une carte d'initiative lui est ensuite attribuée, et il agit normalement. Vaincre le **Mimique** permet ensuite de **Chercher un Trésor**.
+* **Joker** : Un **Objet magique** à déterminer aléatoirement.
 
 ## 9 - Tout feu Tout flammes
 
