@@ -34,7 +34,7 @@ Quand le personnage utilise l'action _Ouvrir la porte_, il peut tirer une carte 
 
 #### Résistance à la magie
 
-Le personnage est résistant aux effets magiques qui lui sont adressés. Le personnage bénéficie d'un bonus de +1 quand il doit effectuer un jet opposé à un jet de trait provenant d'un effet ayant le tag _Magie_.
+Le personnage est résistant aux effets magiques qui lui sont adressés. Le personnage bénéficie d'un bonus de +1 quand il doit effectuer un jet opposé à un Jet de Compétence provenant d'un effet ayant le tag _Magie_.
 
 ### Niveau 2
 
