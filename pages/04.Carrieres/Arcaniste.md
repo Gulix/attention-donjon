@@ -24,27 +24,27 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 > Le personnage dévie le flux des Arcanes pour délivrer une décharge sur une cible proche.
 
-Le personnage dispose de façon permanente d'une Attaque ayant les caractéristiques suivantes :
+**Décharge Arcanique [Magie]** CAC _Savoir/Arcanes Physique_ : Dommages 1 [Dommages 1]
 
-* Arcanes, Allonge 0, _Magie_
-
-Pour pouvoir utiliser cette attaque, le personnage doit avoir une main de libre. De plus, selon l'Arcane qui définit son Initiative, il dispose d'options supplémentaires. Il doit pour cela diminuer sa valeur d'**Arcanes** d'autant qu'il le souhaite avant de procéder au jet de dé. Le nombre de points enlevés est appelé X.
+Pour pouvoir utiliser cette Action, le personnage doit avoir une main de libre. De plus, selon l'Arcane qui définit son Initiative, il dispose d'options supplémentaires. Si son score d'_Arcanes_ est supérieur à 0, il peut le baisser d'autant de points que souhaité avant le jet, jusqu'à un minimum de 0, pour bénéficier des effets suivants. Le nombre de points enlevés est appelé X.
 
 * **Coeur** : Récupère un point de Santé par point de Santé enlevé à l'ennemi, jusqu'à X points maximum.
-* **Carreau** : Annule X points de **Couverture**.
-* **Pique** : Dommages + X, si au moins X Dommages sont infligés.
-* **Trèfle** : Annule X points de **Protection**.
+* **Carreau** : Ajout _Sonné_ et _Cible supplémentaire (Sonné)_ aux effets de Réussite de l'Action.
+* **Pique** : L'effet de l'Action devient _Dommages X_.
+* **Trèfle** : L'effet de l'Action devient _Dommages 1 & Perforation X_.
 
 #### Aura des Arcanes
 
 > L'Arcaniste pioche dans le pouvoir des Arcanes pour le faire éclater tout autour de lui.
 
-L'Arcaniste réalise un test d'**Arcanes** de Difficulté 5. Il peut baisser sa valeur de Compétences d'autant de points qu'il le souhaite pour exclure autant de figurines de l'aura. Si le jet est réussi, toutes les figurines de la zone, lui y compris, sont affectées par l'aura. On note X comme étant le nombre de réussites obtenues. Les effets diffèrent selon l'Arcane qui définit son Initiative :
+**Aura des Arcanes [Magie]** AUR _Savoir/Arcanes 6_ : Spécial [Spécial]
 
-* **Coeur** : les figurines récupèrent X points de Santé (sans dépasser leur valeur maximale).
-* **Carreau** : les figurines disposent d'une **Protection** de X jusqu'à la prochaine phase de _Résolution des effets_.
-* **Pique** : les figurines doivent faire un jet de Mental, de Difficulté égale à la compétence **Arcanes** de l'Arcaniste. Elles perdent (X - nombre de réussites obtenus) points de Santé.
-* **Trèfle** : les figurines perdent X à leur score de **Parade** jusqu'à la prochaine phase de _Résolution des effets_.
+Les effets de l'Action varient selon l'Arcane utilisée pour l'Initiative du personnage :
+
+* **Coeur** : - [Soins 1]
+* **Carreau** : Armure 1 [Armure +1]
+* **Pique** : les personnages dans l'aura gagnent +1D à leurs Actions
+* **Trèfle** : les personnages dans l'aura ajoutent _Perforation 1_ aux effets de réussite de leurs Actions
 
 #### Lecture des Arcanes
 

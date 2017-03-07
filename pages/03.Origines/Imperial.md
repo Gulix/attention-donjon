@@ -23,7 +23,7 @@ Quand le personnage dépense un point d'**Héroisme**, il tire une carte du _Dec
 
 #### Débrouillard
 
-Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser un _Coup de poker_ s'il obtient au moins un 6.
+Le personnage peut utiliser un bonus de +2D lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser un _Coup de poker_ s'il obtient au moins un 6.
 
 #### Touche-à-tout
 

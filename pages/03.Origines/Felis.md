@@ -8,7 +8,7 @@ Les Félis sont généralement de taille humaine, mais adoptent des traits et de
 
 **Fort** : Un Félis possède la puissance musculaire de ses cousins félins, et même si certains sont frêles d'apparence, leur vivacité et leur puissance sont à redouter. A la création, un Félis augmente son attribut de _Force_ d'un point.
 
-**Esquive** : Les Félis sont des êtres très souples et agiles. Ils possèdent le Talent _Esquive_ dès leur création. Voir la section **Esquive** pour la description de ce Talent.
+**Esquive** : Les Félis sont des êtres très souples et agiles. Ils gagnent +1 à la compétence _Esquive_ dès leur création.
 
 ## Améliorations
 
@@ -22,23 +22,19 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 #### Charge
 
-Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du même _Tour de jeu_, le personnage réalise un déplacement autre qu'un _Pas de placement_, **puis** une attaque de **Mêlée**, il peut repousser son adversaire. Il doit pour cela réussir son jet d'attaque. Avant de faire le jet de _Dommages_, il peut décider d'uniquement repousser son adversaire, sans avoir à faire de jet de Dommages. Sinon, il peut décider de faire le jet de Dommages normalement, et en cas de réussite, repousser son adversaire en utilisant une **Réussite** pour cela.
-
-Si un jet de Dommages est effectué, chaque autre Réussite obtenue permet de blesser l'adversaire, selon les règles de dommages habituelles.
+Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du même _Tour de jeu_, le personnage réalise un déplacement autre qu'un _Pas de placement_, **puis** une attaque de type **Corps-à-corps**, il peut repousser son adversaire. Le joueur ajoute l'effet `Repousser` à la liste des effets possibles suite à une _Réussite_ sur l'action de **Corps-à-corps**.
 
 Les règles pour les figurines repoussées se trouvent dans la section sur le **Mouvement**.
 
 #### Odorat développé
 
-Grâce à leur odorat développé, les Félis sont rarement surpris, et arrivent à deviner la présence proche d'ennemis. Lorsqu'une _Rencontre_ a lieu, le joueur Félis choisit un des groupes actifs dévoilés, et tire deux cartes du Deck d'exploration. Il choisit celle qui sera utilisée comme Initiative par le groupe, et défausse l'autre carte. Dans le cas où le groupe peut tirer plusieurs cartes d'initiative, ce talent permet de contrôler la première de ces cartes.
+Grâce à leur odorat développé, les Félis sont rarement surpris, et arrivent à deviner la présence proche d'ennemis. Lorsqu'une _Rencontre_ a lieu, le joueur Félis choisit un des groupes actifs dévoilés, et tire deux cartes du Deck d'exploration. Il choisit celle qui sera utilisée comme _Initiative_ par le groupe, et défausse l'autre carte. Dans le cas où le groupe peut tirer plusieurs cartes d'initiative, ce talent permet de contrôler la première de ces cartes.
 
 #### Rugissement
 
-Le personnage est capable de lancer un cri terrifiant capable de déstabiliser ses ennemis. Utiliser un **Rugissement** nécessite une _Action bonus_. Le personnage cible une figurine dans sa zone ou dans une zone adjacente, sur laquelle il a une _Ligne de vue_. Le joueur réalise alors un test de _Vigueur_ opposé au _Mental_ de sa cible. Si le test est réussi, la victime devient _Secouée_.
+Le personnage est capable de lancer un cri terrifiant capable de déstabiliser ses ennemis. Il gagne l'action suivante :
 
-Pour chaque **Réussite** après la première, le personnage peut affecter une figurine dans la même zone que la première cible, tant que cette nouvelle victime a un _Mental_ égal ou inférieur à la cible d'origine. Aucun jet n'est nécessaire.
-
-Les figurines n'ayant pas de valeur de _Mental_, ou immunisée aux attaques de type _Mental_, ne peuvent pas être affectées par le **Rugissement**.
+**>Rugissement** DST _Vigueur Volonté_ : Secoué [Cible supplémentaire]
 
 ### Niveau 2
 

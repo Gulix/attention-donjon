@@ -6,7 +6,7 @@ Les Nains des Montages forment un peuple lié de longue date à l'Empire.
 
 **Endurant** : Un Nain des montagnes est endurant et dur au mal. A la création, un Nain des montagnes augmente son attribut d'_Endurance_ d'un point.
 
-**Tenace** : Les Nains des Montages bénéficient d'un bonus de +1 sur leurs jets de _Mental_.
+**Tenace** : Les Nains des Montages gagnent +1 à la compétence _Résistance_ dès leur création.
 
 ## Améliorations
 
@@ -18,13 +18,9 @@ Entre deux aventures, un personnage ne peut acquérir qu'un seul Talent lié à 
 
 Ces Talents sont tous accessibles par le personnage contre 1XP.
 
-#### Charge
+#### Défense
 
-Le personnage est adepte des charges violentes et soudaines qui lui permettent de repousser les adversaires. Si, lors du même _Tour de jeu_, le personnage réalise un déplacement autre qu'un _Pas de placement_, **puis** une attaque au corps-à-corps, il peut repousser son adversaire. Il doit pour cela réussir son jet d'attaque. Avant de faire le jet de _Dommages_, il peut décider d'uniquement repousser son adversaire, sans faire de jet de Dommages. Sinon, il peut décider de faire le jet de Dommages, et en cas de réussite, repousser son adversaire au lieu de le _Secouer_.
-
-Si un jet de Dommages est effectué, chaque _Seuil de Réussite_ obtenu permet, en plus de repousser l'adversaire, de le _Secouer_, voire de le blesser, selon les règles de dommages habituelles.
-
-Les règles pour les figurines repoussées se trouvent dans la section sur le **Mouvement**.
+Une fois par Round, lors de l'activation d'un groupe d'ennemis, le personnage peut prendre une posture défensive pour bénéficier de +1D sur toutes les actions d'attaque de ce groupe d'ennemis.
 
 #### Orientation Sous-Terraine
 

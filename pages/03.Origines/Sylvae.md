@@ -8,7 +8,7 @@ De nos jours, les Sylvae sont complètement intégrés à l'Empire. Certains viv
 
 **Grace des Sylvae** : Les Sylvae vivent au coeur des forêts les plus denses mais s'y déplacent avec grâce et facilité. Certains érudits avancent même que les Sylvae sont des plantes évoluées. Peu importe la vérité, ce qui est indéniable est l'agilité des Sylvae. A la création, un Sylvae augmente son attribut d' _Agilité_ d'un point.
 
-**Science de la vie** : Les Sylvae sont des êtres qui révèrent la vie sous toutes ses formes. Leurs connaissances en font de très bons médecins, qui n'hésitent pas à utiliser des voies alternatives. Un Sylvae a un bonus de +1 pour les jets de _Soins_.
+**Science de la vie** : Les Sylvae sont des êtres qui révèrent la vie sous toutes ses formes. Leurs connaissances en font de très bons médecins, qui n'hésitent pas à utiliser des voies alternatives. Un Sylvae a un bonus de +1 à la compétence _Soins_.
 
 ## Améliorations
 
@@ -22,17 +22,17 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 #### Regard perçant
 
-Le personnage est capable d'atteindre une cible à distance, même si celle-ci est partiellement masquée. Il ignore le malus de **Couvert** sur les attaques à distance (Tir, Lancer, Arcane, ...).
+Le personnage est capable d'atteindre une cible à distance, même si celle-ci est partiellement masquée. Il bénéficie d'un bonus de +1D sur ses Actions qui ciblent des figurines qui ne sont ni adjacentes à lui, ni dans sa zone.
 
 #### Esquive
 
-Voir la section **Esquive** pour une description du talent Esquive.
+Le personnage peut augmenter sa compétence _Esquive_ d'un point.
 
 #### Savoir partagé
 
 Les Sylvae semblent posséder une intelligence commune, une sagesse qu'ils partagent entre eux pour disposer de connaissances qu'une personne seule ne pourrait amasser.
 
-Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il ne peut pas utiliser de _Coup de poker_.
+Le personnage peut utiliser un bonus de +2D lors de ses jets de _Savoir_. S'il utilise ce bonus, il ne peut pas utiliser de _Coup de poker_.
 
 ### Niveau 2
 

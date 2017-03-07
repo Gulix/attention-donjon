@@ -24,7 +24,7 @@ Ces Talents sont tous accessibles par le personnage contre 1XP.
 
 Le personnage se laisse consumer par la rage qui l'anime pour devenir une machine à tuer, perdant au passage ses réflexes de défense. Le personnage utilise une action Bonus pour acquérir l'état **Enragé** (voir section **Etats**).
 
-Le personnage peut utiliser une **action bonus** pour tenter un jet de _Mental_ contre une Difficulté de 5, et reprendre le contrôle et perdre l'état _Enragé_ en cas de réussite.
+Le personnage peut utiliser une **action bonus** pour tenter un jet de _Mental/Résistance_ contre une Difficulté de 5, et reprendre le contrôle et perdre l'état _Enragé_ en cas de réussite.
 
 #### Instinctif
 
@@ -42,7 +42,7 @@ Ces Talents sont tous accessibles par le personnage contre 3XP. Certains Talents
 
 Nécessite le Talent _Force Bestiale_.
 
-Lorsque le personnage subit une **Blessure Grave**, après avoir tiré la carte décrivant la blessure, il peut choisir de la mettre de côté. Dans ce cas, lors de la prochaine phase de **Résolution des effets**, il pourra décider de subir la blessure grave précédemment tirée, ou de tirer une nouvelle carte et de subir les effets de cette nouvelle carte. 
+Lorsque le personnage subit une **Blessure Grave**, après avoir tiré la carte décrivant la blessure, il peut choisir de la mettre de côté. Dans ce cas, lors de la prochaine phase de **Résolution des effets**, il pourra décider de subir la blessure grave précédemment tirée, ou de tirer une nouvelle carte et de subir les effets de cette nouvelle carte.
 
 #### Charge
 
