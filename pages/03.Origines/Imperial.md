@@ -3,7 +3,7 @@
 
 ## Caractéristiques de départ
 
-**Au service de l'Empire** : Les Impériaux, peu importe leur origine, doivent tous offrir quelques années de leur jeunesse au service de l'Empire. Selon leurs capacités, les jeunes impériaux sont envoyés soit en Scholarium pour y découvrir le savoir et les sciences impériales, soit en Militum pour y découvrir la discipline et les valeurs martiales. A la création, un Impérial augmente son attribut de _Savoir_ ou de _Mental_ d'un point.
+**Au service de l'Empire** : Les Impériaux, peu importe leur origine, doivent tous offrir quelques années de leur jeunesse au service de l'Empire. Selon leurs capacités, les jeunes impériaux sont envoyés soit en Scholarium pour y découvrir le savoir et les sciences impériales, soit en Militum pour y découvrir la discipline et les valeurs martiales. A la création, un Impérial diminue son attribut de _Savoir_ ou de _Mental_ d'un point (4+ devient 3+, par exemple).
 
 **Formation Eclectique** : La formation obligatoire des jeunes Impériaux, souvent loin de leurs familles, leur permet de découvrir des domaines qu'ils n'auraient sinon pas approchés. A sa création, un Impérial dispose d'un XP gratuit (qui n'est pas compté dans son total dépensé) pour acquérir un talent de niveau 1 de n'importe quelle _Carrière_ accessible à un Impérial.
 
@@ -23,7 +23,7 @@ Quand le personnage dépense un point d'**Héroisme**, il tire une carte du _Dec
 
 #### Débrouillard
 
-Le personnage peut utiliser un bonus de +2 lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser un _Coup de poker_ s'il obtient au moins un 6.
+Le personnage peut utiliser un bonus de +2 dés lors de ses jets de _Savoir_. S'il utilise ce bonus, il doit obligatoirement réaliser un _Coup de poker_ s'il obtient au moins un 6.
 
 #### Touche-à-tout
 
